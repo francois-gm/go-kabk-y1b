@@ -105,4 +105,28 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 - Then we will do them together.
 
-## Small group presentations (your CSS property, 2h)
+## Class time to work on the *Ode to CSS* assignment (1h30)
+
+Make **small groups** based on your CSS property, and present your `property` to the other members of the group. 
+
+- How about giving the other's property a try?
+- Would some of these help you in your own project?
+
+Questions to think about related to your property:
+
+- How you declare your property?
+- What are the possible options of that property (color, accepted units, other options)?
+- How does it look when applied to HTML elements?
+- If applicable, to which HTML elements does the property works on?
+- How can you leverage the property and make a page that displays the various possibilites of it?
+
+I will join the conversation at the following times:
+
+| Time slot | Group |
+| -- | -------------- |
+| 15h40 | -, -, -, -, -, - |
+| 16h10 | -, -, -, -, -, - |
+| 16h40 | -, -, -, -, -, - |
+| 17h10 | -, -, -, -, -, - |
+
+[See dedicated page](https://github.com/francois-gm/go-kabk-y1b/tree/main/02%20-%20Assignment%201%20(ode%20to%20CSS))
