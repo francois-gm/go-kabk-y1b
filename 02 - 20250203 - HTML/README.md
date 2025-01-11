@@ -1,9 +1,21 @@
 # Class 2, 2025/02/03
 
-## Intro (30min)
+## Intro (15min)
 
 - *A website you like* (Jerome, Bengi, François)
-- Round table, each present their *XML snapshots* exercice
+
+## Presentation of exercise 1 (20min)
+
+Everybody present their *XML snapshots* exercice (picture + scan of analogue code).
+
+## Exercise 2, mapping elements (20min)
+
+Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
+
+- Draw a the structure of all elements as boxes on a piece of paper.
+- Annotate each box by their tag name.
+- Take a picture and/or scan this.
+- Add it into the Teams folder corresponding to the right code.
 
 ## Tutorial: Visual Studio (15min)
 
@@ -42,6 +54,38 @@ Shortcut for HTML template:
 * {
  outline: 1px solid #F00;
 }
+
+## Tutorial: A clean working document (15min)
+
+- Your project has its project own folder.
+- Inside your project folder, you have an html file named `index.html`.
+- Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
+- Inside your `css` subfolder you have your `style.css` file.
+- Inside your `js` subfolder you have your `script.js` file.
+
+```
+your-project-folder
+
+   ├── index.html
+   ├── content
+   └── assets
+       ├── css
+       │   └── style.css
+       └── js
+           └── script.js
+```
+
+You link your style.css and script.js files in your html document.
+
+For `style.css`:
+
+- For the `style.css` document, this should be inside the <head> of your html document.
+- `<link rel="stylesheet" href="assets/css/style.css">`
+
+For `script.js`:
+
+- For the `script.js` document, this should be at the end of your html document.
+- `<script src="assets/js/script.js"></script>`
 ```
 
 Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
