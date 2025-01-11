@@ -3,11 +3,9 @@
 _Coding Y1 @ KABK_
 _(inter)dependencies_
 
-For this semester, I’d propose we start by extrapolating ourselves from the technicalities of ‘coding’ and have a look at our surroundings. 
+For this semester, I’d propose we start by extrapolating ourselves from the technicalities of ‘coding’ and have a look at our surroundings. ‘Thinking through code’ shapes our way of looking at things, and provides abstraction models that help interpreting the materiality of our environment.
 
-Although I’m not a fan of the saying that ‘code is every­where’ or ‘everything is code’, I find the optical point of view it provides when it comes to look at our surroundings stimulating. ‘Thinking code’ shapes our way of looking at things, and provides abstraction models that help interpreting the materiality of our environment.
-
-I’d like to think about how elements tend to sit on other elements, that every piece of the puzzle that fulfills a function depends on another piece that fulfills another function and so on and so on. 
+Think of how elements tend to sit on other elements, that every piece of the puzzle that fulfills a function depends on another piece that fulfills another function and so on and so on. 
 
 <img src="osi-layers.jpg" width="500px">
 
