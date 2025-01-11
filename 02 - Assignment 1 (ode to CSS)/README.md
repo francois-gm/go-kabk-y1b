@@ -4,8 +4,9 @@
 
 - Make a page that 'celebrates' a CSS property (an *ode*, a *homage*...)
 - In the format of an HTML page that uses your assigned CSS property
-- The page should work as a display of most potential use cases of that property
-- Ultimately, each combined pages will form a collection of pages, an 'index' of most properties and their possibilities
+- The page should be a work in itself, so don't be scared to get "conceptual" or "abstract"
+- ... but needs to stay true to the property assigned
+- Ultimately, each combined pages will form a collection of pages
 - You might have to use other CSS properties as well in order to 'highlight' your property.
 - During the assignment, you will have time to share your findings on your assigned property, as well as learn about other's findings
 
