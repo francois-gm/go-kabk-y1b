@@ -9,8 +9,6 @@ Presentation: An overview of HTML
 
 **XML ‘in-situ snapshot’ coding exercice (1h)**
 
-(take a picture of the ‘coded snapshot’ for reference)
-
 Venture into the Hortus and find a location you want to document. Think about what you see but also what you hear and smell. 
 
 Use the logic of XML languages:
@@ -19,7 +17,7 @@ Use the logic of XML languages:
 - Tags that contain other tags
 - The use of attributes that giving specifications on the tags.
 
-Don't forget to also **take a picture with your phone** of the scene/detail you are making a ‘coded snapshot’.
+Don't forget to also **take a picture with your phone** of the scene/detail you are making a ‘coded snapshot’. We'll need these for next class.
 
 More about XML:
 
