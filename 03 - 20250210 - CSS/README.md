@@ -107,4 +107,4 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 ## Presentation assignment 1
 
-[See dedicated page](https://github.com/francois-gm/go-kabk-y1a/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
+[See dedicated page](https://github.com/francois-gm/go-kabk-y1b/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
