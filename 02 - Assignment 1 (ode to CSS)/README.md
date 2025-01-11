@@ -35,7 +35,7 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | Nell |
+| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | - |
 | 2 | `opacity` | - |
 | 3 | `border` | - |
 | 4 | `filter` | - |
