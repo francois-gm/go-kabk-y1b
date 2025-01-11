@@ -29,6 +29,38 @@ Shortcut for HTML template:
 - When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
 - `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
 
+## Tutorial: A clean working document (15min)
+
+- Your project has its project own folder.
+- Inside your project folder, you have an html file named `index.html`.
+- Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
+- Inside your `css` subfolder you have your `style.css` file.
+- Inside your `js` subfolder you have your `script.js` file.
+
+```
+your-project-folder
+
+   ├── index.html
+   ├── content
+   └── assets
+       ├── css
+       │   └── style.css
+       └── js
+           └── script.js
+```
+
+You link your style.css and script.js files in your html document.
+
+For `style.css`:
+
+- For the `style.css` document, this should be inside the <head> of your html document.
+- `<link rel="stylesheet" href="assets/css/style.css">`
+
+For `script.js`:
+
+- For the `script.js` document, this should be at the end of your html document.
+- `<script src="assets/js/script.js"></script>`
+
 ## Tutorial: HTML (1h15)
 
 - HTML (1h)
@@ -57,7 +89,7 @@ Shortcut for HTML template:
 ```
 
 Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
-
+  
 ## Presentation assignment 1
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1b/tree/main/02%20-%20Assignment%201%20(ode%20to%20CSS))
