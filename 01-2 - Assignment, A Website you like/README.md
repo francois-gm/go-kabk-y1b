@@ -32,29 +32,30 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| September 16 (class 2) | Lucile | https://theoverkill.nl |
-| September 16 (class 2) | Sam | https://julesjanssen.biz/ |
-| September 23 (class 3) | Matilde | https://altsdigital.com/ |
-| September 23 (class 3) | Jeungin | https://tholman.com/texter/ |
-| September 30 (class 4) | Nell | https://abstract-intelligence.com |
-| September 30 (class 4) | Khulan | http://www.because-recollection.com |
-| October 7 (class 5) | No presentation | |
-| October 14 (class 6) | Timmy | https://70s.myretrotvs.com |
-| October 14 (class 6) | Fedja | https://almanacpress.xyz |
-| October 21 (class 7) | Duru | https://neal.fun/deep-sea/ |
-| October 21 (class 7) | Yoonjin | http://v1.windows93.net |
-| November 4 (class 8) | Kaja | https://poolsuite.net |
-| November 4 (class 8) | Max | https://cursed.epic.net/ |
-| November 11 (class 9) | Yalizah | https://www.cameronsworld.net/ |
-| November 11 (class 9) | Maria | https://radiooooo.com/ |
-| November 18 (class 10) | Femke | https://www.malaproject.com |
-| November 18 (class 10) | Alexandr | https://kidpix.app/?ref=fuse-kiwi |
-| November 25 (class 11) | Myrto | https://kanaal40.tv |
-| November 25 (class 11) | Andrei | https://superinternet.world/play/?x=0&z=0 |
-| December 2 (class 12) | Olya | https://theuselessweb.com |
-| December 2 (class 12) | Mani | https://www.islandpaafilm.dk/is |
-| December 9 (class 13) | Isaac | https://standardsmanual.com/ |
-| December 9 (class 13) | Amy | https://www.studio-job.com/ |
+| February 3 (class 2) | Jerome | - |
+| February 3 (class 2) | Bengi | - |
+| February 10 (class 3) | Olin | - |
+| February 10 (class 3) | Mart | - |
+| February 17 (class 4) | David | - |
+| February 17 (class 4) | Klara | - |
+| March 3 (class 5) | Simone | - |
+| March 3 (class 5) | Iloy | - |
+| March 10 (class 6) | Julia (F) | - |
+| March 10 (class 6) | Jennie | - |
+| March 17 (class 7) | Prem Dai | - |
+| March 17 (class 7) | Julia (J) | - |
+| March 24 (class 8) | Roxee | - |
+| March 24 (class 8) | Layoung | - |
+| March 31 (class 9) | Luca | - |
+| March 31 (class 9) | Sia | - |
+| April 7 (class 10) | Julia (N) | - |
+| April 7 (class 10) | Jasna | - |
+| April 14 (class 11) | Pola | - |
+| April 14 (class 11) | Mara | - |
+| April 7 (class 12) | Daniel | - |
+| April 7 (class 12) | Yicheng | - |
+| May 12 (class 13) | Eva | - |
+| May 12 (class 13) | Nastya | - |
 
 
 ## Ressources list
