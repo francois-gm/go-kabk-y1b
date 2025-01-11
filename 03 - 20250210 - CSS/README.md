@@ -1,8 +1,8 @@
-# Class 3, 2024/09/23
+# Class 3, 2025/02/10
 
 ## Intro (30min)
 
-- A website you like (Matilde, Jeungin, François)
+- A website you like (Olin, Mart, François)
 
 ## Recap (15min)
 
