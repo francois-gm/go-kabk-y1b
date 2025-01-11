@@ -56,6 +56,8 @@ Shortcut for HTML template:
 }
 ```
 
+Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
+
 ## Tutorial: A clean working document (15min)
 
 - Your project has its project own folder.
@@ -87,6 +89,3 @@ For `script.js`:
 
 - For the `script.js` document, this should be at the end of your html document.
 - `<script src="assets/js/script.js"></script>`
-```
-
-Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
