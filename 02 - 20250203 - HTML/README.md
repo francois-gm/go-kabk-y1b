@@ -1,8 +1,8 @@
-# Class 2, 2024/09/16
+# Class 2, 2025/02/03
 
 ## Intro (30min)
 
-- *A website you like* (Lucile, Sam, François)
+- *A website you like* (Jerome, Bengi, François)
 - Round table, each present their *XML snapshots* exercice
 
 ## Tutorial: Visual Studio (15min)
@@ -16,48 +16,6 @@ Shortcut for HTML template:
 
 - When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
 - `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
-
-## Exercice 1, *revisions* (60min)
-
-Each student gets the previous *XML snapshot* of another student.
-
-### a) Retranscribe the code in an html file (15min)
-
-First, write the code in VS studio and save the file as `y1a-01-firstname.html` (see example file). Think about respecting indentation.
-
-Then save a **second version** with the name `y1a-01-firstname-revisedby-yourfirstname.html`.
-
-*So, if I would revise Lucile's code, it would be:*
-
-- `y1a-01-lucile.html`.
-- `y1a-01-lucile-revisedby-francois.html`.
-  
-### b) Do a revision of the code (30min)
-  
-You will review their code, and perform revisions on their code:
-
-#### Step 1:
-
-- Verify that the syntax of HTML/XML is respected:
-  - Tags **opened** and **closed**, `<tag></tag>` is formatted, with closing tag having a `/` (slash).
-  - Formatting of attributes: `attribute="value"` with `="`, `value` and `"`.
-- Make amendments to naming of tags if it can be made in a way that is clearer?
-- Restructure code if it makes sense to you (does the grouping makes sense)?
-- *What piece of information might be relevant but is not present?* **Add 2-3 elements or attributes** based on the pictures you think are worth being present.
-
-#### Step 2:
-
-- Highlight your changes by wrapping them in `<span>` tags and adding a style="color:red;"` inline CSS attribute (replace the red by the color of your choice, but keep that color consistent).
-- Add some general CSS 'inline' styling properties to both documents.
-
-Example of CSS properties to play with:
-- Color: [CSS color property](https://www.w3schools.com/cssref/pr_text_color.php), [CSS background-color property](https://www.w3schools.com/cssref/pr_background-color.php) and [possible CSS color values](https://www.w3schools.com/cssref/css_colors.php)
-- Text decoration, [on W3School](https://www.w3schools.com/cssref/pr_text_text-decoration.php), and on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
-- Text shadow, [on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
-
-#### Round table presentation of the revisions (15min)
-
-- Add these to the Teams folder
 
 ## Tutorial: HTML (1h15)
 
