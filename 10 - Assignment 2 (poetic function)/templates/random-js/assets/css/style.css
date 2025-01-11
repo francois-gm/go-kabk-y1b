@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+
+
+/* @FONT FACE (enable the use of 'custom fonts' inside your document) */
+
+/* 
+  You can use 'fontsquirrel' (https://www.fontsquirrel.com) 
+  or 'transfonter' (https://transfonter.org)
+  to generate your own font for the web from .ttf or .oft files 
+*/
+
+@font-face {
+    font-family: 'Your Font Name';
+    src: url('../fonts/yourfontname/yourfontname-roman.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Your Font Name';
+    src: url('../fonts/yourfontname/yourfontname-italic.woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: block;
+}
+
+
+
+/* GENERAL STYLES */
+
+html {
+  font-size: 24px;
+  font-family: 'Your Font Name', 'Helvetica', 'Arial', sans-serif;
+  color: black;
+  background-color: white;
+}
+
+body {
+  position:relative;
+  background-color: white;
+  font-size: 24px;
+  font-family: 'Your Font Name', 'Helvetica', 'Arial', sans-serif;
+  color: black;
+  width:100%;
+  height:auto;
+  overflow-y:auto;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+
+
+h1{
+  /* h1 style */
+}
+
+h2{
+  /* h2 style */
+}
+
+h3{
+  /* h3 style */
+}
+
+p{
+  /* paragraph style */
+}
+
+/* PAGE STYLES */
+
+/* page structure */
+
+div.page-wrapper {
+  /* the element that 'wraps' everything */
+  padding: 1rem;
+}
+
+
+
+
+/* WEBSITE MEDIA QUERIES */
+
+/* styles for 'mobile', screen sizes up to 779px, should covers 'mobile' and 'tablet' */
+
+@media (max-width: 779px) {
+
+  /* your 'mobile' overriding css properties here, remember about the 'cascade' */
+
+
+
+}
+
+

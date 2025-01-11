@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+/* CSS rules go below */
+
+body{
+	padding:1rem;
+}
+
+button{
+	font-size:1.25rem;
+	padding:1rem;
+	border-radius: 1rem;
+	border-width:3px;
+	border-style: solid;
+	color: black;
+	background-color: white;
+	border-color: black;
+	opacity:0.5;
+	cursor: pointer;
+}
+
+button:hover{
+	opacity:1;
+	color:blue;
+	text-decoration: underline;
+}
+
+/* general styling */
+
+div.container{
+	padding: 5rem;
+}
+
+div.modal{
+	position:fixed;
+	left:25vw;
+	top:25vh;
+	width:50vw;
+	height:50vh;
+	background-color: red;
+	color:blue;
+	font-size: 3vw;
+	text-align: center;
+	z-index:2;
+	line-height: 125%;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+/* is light mode */
+/*
+body{
+	color: black;
+	background-color: white;
+}
+
+body button{
+	color: black;
+	background-color: white;
+	border-color: black;
+}
+
+body button.btn-dark-mode{
+	color: white;
+	background-color: black;
+	border-color: white;
+}
+
+body span.btn-modal-text-lightmode{
+	display: none;
+}
+
+body span.btn-modal-text-darkmode{
+	display: block;
+}
+*/
+/* is dark mode */
+
+
+
+/* is closed */
+/*
+nav.menu span.btn-modal-text-close{
+	display: none;
+}
+
+nav.menu span.btn-modal-text-open{
+	display: block;
+}
+
+div.modal{
+	display: none;
+}
+*/
+/* is opened */
+
+
+
+

@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+
+
+/* @FONT FACE (enable the use of 'custom fonts' inside your document) */
+
+/* 
+  You can use 'fontsquirrel' (https://www.fontsquirrel.com) 
+  or 'transfonter' (https://transfonter.org)
+  to generate your own font for the web from .ttf or .oft files 
+*/
+
+@font-face {
+    font-family: 'Your Font Name';
+    src: url('../fonts/yourfontname/yourfontname-roman.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Your Font Name';
+    src: url('../fonts/yourfontname/yourfontname-italic.woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: block;
+}
+
+
+
+/* GENERAL STYLES */
+
+html {
+  font-size: 24px;
+  font-family: 'Your Font Name', 'Helvetica', 'Arial', sans-serif;
+  color: black;
+  background-color: white;
+}
+
+body {
+  position:relative;
+  background-color: white;
+  font-size: 24px;
+  font-family: 'Your Font Name', 'Helvetica', 'Arial', sans-serif;
+  color: black;
+  width:100%;
+  height:auto;
+  min-height: 100vh;
+  overflow-y:auto;
+  transition: background-color 500ms ease-in-out 0ms,
+              color 500ms ease-in-out 0ms;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+
+
+h1{
+  /* h1 style */
+}
+
+h2{
+  /* h2 style */
+}
+
+h3{
+  /* h3 style */
+}
+
+p{
+  /* paragraph style */
+}
+
+/* PAGE STYLES */
+
+/* based on different data attributes, different CSS styles */
+
+body[data-select-1-value="select-1-option-1"]{
+  background-color: #FF0;
+}
+
+body[data-select-1-value="select-1-option-2"]{
+  background-color: #F00;
+}
+
+body[data-select-1-value="select-1-option-3"]{
+  background-color: #00F;
+}
+
+body[data-select-2-value="select-2-option-1"]{
+  color:#F0F;
+  font-family: "Arial";
+}
+
+body[data-select-2-value="select-2-option-2"]{
+  color:#0F0;
+  font-family: "Times New Roman";
+}
+
+body[data-select-2-value="select-2-option-3"]{
+  color:#0FF;
+  font-family: "Courier New";
+}
+
+/* page structure */
+
+div.page-wrapper {
+  /* the element that 'wraps' everything */
+  padding: 1rem;
+}
+
+
+
+
+/* WEBSITE MEDIA QUERIES */
+
+/* styles for 'mobile', screen sizes up to 779px, should covers 'mobile' and 'tablet' */
+
+@media (max-width: 779px) {
+
+  /* your 'mobile' overriding css properties here, remember about the 'cascade' */
+
+
+
+}
+
+
