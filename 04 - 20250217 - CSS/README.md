@@ -1,8 +1,8 @@
-# Class 4, 2024/09/30
+# Class 4, 2025/02/17
 
-## Intro (15min)
+## Intro (20min)
 
-- A website you like (Nell, Khulan, François)
+- A website you like (David, Klara, François)
 
 ## Recap (15min)
 
@@ -48,54 +48,3 @@ But how does the 'CSS algorithm' actually works?
 - [Visual examples on specificity](https://www.w3schools.com/cssref/trysel.php?)
 - Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
 - ... or play [this other game](https://toolness.github.io/css-selector-game/)
-  
-## Exercise 1, HTML/CSS selector based on specificity (30min)
-
-You are assigned with a *specificity* value.
-
-1. Define a CSS selector that matches with the assigned value.
-
-| Specificity | Name |
-| --------  | --------------------- |
-| `0`-`0`-`0`-`1` | Lucile, Matilde |
-| `0`-`0`-`0`-`3` | Sam, Jeungin |
-| `0`-`0`-`1`-`1` | Nell, Timmy |
-| `0`-`0`-`1`-`2` | Khulan, Fedja |
-| `0`-`0`-`2`-`1` | Duru, Kaja |
-| `0`-`0`-`2`-`3` | Yoonjin, Max |
-| `0`-`0`-`4`-`2` | Yalizah, Alexandr |
-| `0`-`1`-`0`-`1` | Femke, Olya |
-| `0`-`1`-`2`-`3` | Maria, Isaac |
-| `0`-`2`-`1`-`0` | Mani, Amy |
-| `0`-`2`-`3`-`2` | Myrto, Andrei |
-
-2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
-3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
-
-## Class time to work on the *Ode to CSS* assignment (1h30)
-
-Make **small groups** based on your CSS property, and present your `property` to the other members of the group. 
-
-- How about giving the other's property a try?
-- Would some of these help you in your own project?
-
-Afterwards, sketch some ideas about how you can 'conceptually' use your property and display all its variations in a playful way.
-
-Questions to think about related to your property:
-
-- How you declare your property?
-- What are the possible options of that property (color, accepted units, other options)?
-- How does it look when applied to HTML elements?
-- If applicable, to which HTML elements does the property works on?
-- How can you leverage the property and make a page that displays the various possibilites of it?
-
-I will join the conversation at the following times:
-
-| Time slot | Group |
-| -- | -------------- |
-| 15h40 | Nell, Jeungin, Timmy, Sam, Mathilde |
-| 16h10 | Khulan, Lucile, Andrei, Max, Yalizah, Alexandr |
-| 16h40 | Yoonjin, Fedja, Duru, Myrto, Kaja, Femke |
-| 17h10 | Maria, Olya, Issac, Mani, Amy |
-
-[See dedicated page](https://github.com/francois-gm/go-kabk-y1a/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
