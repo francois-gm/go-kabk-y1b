@@ -54,6 +54,7 @@ Shortcut for HTML template:
 * {
  outline: 1px solid #F00;
 }
+```
 
 ## Tutorial: A clean working document (15min)
 
