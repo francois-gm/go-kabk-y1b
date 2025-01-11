@@ -1,5 +1,5 @@
 # HTML introduction
-*(2024/09/09, at Hortus Botanicus Leiden)*
+*(2025/01/20, at Hortus Botanicus Leiden)*
 
 Presentation: An overview of HTML
 
@@ -18,6 +18,8 @@ Use the logic of XML languages:
 - Tags that open and close
 - Tags that contain other tags
 - The use of attributes that giving specifications on the tags.
+
+Don't forget to also **take a picture with your phone** of the scene/detail you are making a ‘coded snapshot’.
 
 More about XML:
 
