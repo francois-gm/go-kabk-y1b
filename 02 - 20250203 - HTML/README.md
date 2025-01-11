@@ -1,6 +1,6 @@
 # Class 2, 2025/02/03
 
-## Intro (15min)
+## Intro (30min)
 
 - *A website you like* (Jerome, Bengi, François)
 
