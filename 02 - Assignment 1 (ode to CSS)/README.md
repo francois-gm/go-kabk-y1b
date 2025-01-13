@@ -35,33 +35,33 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | - |
-| 2 | `opacity` | - |
-| 3 | `border` | - |
-| 4 | `filter` | - |
-| 5 | `box-shadow` | - |
+| 1 | `color` | - |
+| 2 | `background` (and sub-properties) | - |
+| 3 | `opacity` | - |
+| 4 | `border` | - |
+| 5 | `filter`, `backdrop-filter` | - |
+| 6 | `box-shadow` | - |
+| 7 | `mix-blend-mode` | - |
 | **Layout** | | |
-| 6 | CSS units (`px`, `%`, `vw`, `vh`) | - |
-| 7 | `position` | - |
-| 8 | `display:block;`, `float` | - |
-| 9 | `display:flex;` | - |
-| 10 | `margin`, `padding` | - |
-| 11 | `z-index` | - |
+| 8 | CSS size units (`px`, `%`, `vw`, `vh`) | - |
+| 9 | `position` | - |
+| 10 | `display:block;`, `float` | - |
+| 11 | `display:flex;` | - |
+| 12 | `margin`, `padding` | - |
+| 13 | `z-index` | - |
 | **Typography** | | |
-| 12 | `font` (`family`, `size`, `weight`) | - |
-| 13 | `text-align`, `text-indent` | - |
-| 14 | `line-height` | - |
-| 15 | `text-decoration` | - |
-| 16 | `letter-spacing`, `word-spacing` | - |
-| 17 | `text-shadow` | - |
+| 14 | `font` (and sub-properties) | - |
+| 15 | `text-align`, `text-indent` | - |
+| 16 | `line-height` | - |
+| 17 | `text-decoration` | - |
+| 18 | `letter-spacing`, `word-spacing` | - |
+| 19 | `text-shadow` | - |
 | **Functionality** | | |
-| 18 | `cursor` | - |
-| 19 | `@media` | - |
-| 20 | `transition` | - |
-| 21 | `transform` | - |
-| 22 | `overflow` | - |
-| 23 | `-` | - |
-| 24 | `-` | - |
+| 20 | `cursor` | - |
+| 21 | `@media` | - |
+| 22 | `transition` | - |
+| 23 | `transform` | - |
+| 24 | `overflow` | - |
 
 Some links to help you research your CSS property:
 
