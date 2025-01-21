@@ -42,7 +42,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 3 (class 5) | Iloy | - |
 | March 10 (class 6) | Julia (F) | - |
 | March 10 (class 6) | Jennie | - |
-| March 17 (class 7) | Prem Dai | - |
+| March 17 (class 7) | Prem | - |
 | March 17 (class 7) | Julia (J) | - |
 | March 24 (class 8) | Roxee | - |
 | March 24 (class 8) | Layoung | - |
