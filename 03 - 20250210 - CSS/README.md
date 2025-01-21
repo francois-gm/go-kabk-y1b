@@ -126,7 +126,7 @@ I will join the conversation at the following times:
 | -- | -------------- |
 | 15h40 | Klara, David, Bengi, Daniel, Mara, Pola |
 | 16h10 | Eva, Jerome, Luca, Jennie, Sia, Julia (F) |
-| 16h40 | Prem Dai, Layoung, Olin, Iloy, Simone, Mart |
+| 16h40 | Prem, Layoung, Olin, Iloy, Simone, Mart |
 | 17h10 | Jasna, Roxee, Julia (J), Yicheng, Nastya, Julia (N) |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1b/tree/main/02%20-%20Assignment%201%20(ode%20to%20CSS))
