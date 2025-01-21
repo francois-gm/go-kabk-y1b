@@ -31,7 +31,7 @@ do `Command` + `Shift` + `S` while on the page.
 ## Properties
 
 See table below:
-
+<!--
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
@@ -62,7 +62,7 @@ See table below:
 | 22 | `transition` | Julia (J) |
 | 23 | `transform` | Yicheng |
 | 24 | `overflow` | Nastya |
-
+-->
 Some links to help you research your CSS property:
 
 - [CSS properties almanac on CSS tricks](https://css-tricks.com/almanac/properties/)
