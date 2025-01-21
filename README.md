@@ -16,7 +16,7 @@ In addition to in-class exercises, you will have 3-4 short assignments, each to 
 
 *At the beginning of each class, 2 students will make a short presentation about a website they like, and tell us a bit more about it. I will also do the same.*
 
-[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1b/tree/main/01-2%20-%20Assignment%2C%20A%20Website%20you%20Like)
+[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1b/tree/main/01-2%20-%20Assignment%2C%20A%20Website%20you%20like)
 
 ## Time schedule
 
