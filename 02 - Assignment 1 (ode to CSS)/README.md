@@ -50,7 +50,7 @@ See table below:
 | 12 | `margin`, `padding` | Sia |
 | 13 | `z-index` | Julia (F) |
 | **Typography** | | |
-| 14 | `font` (and sub-properties) | Prem Dai |
+| 14 | `font` (and sub-properties) | Prem |
 | 15 | `text-align`, `text-indent` | Layoung |
 | 16 | `line-height` | Olin |
 | 17 | `text-decoration` | Iloy |
