@@ -74,21 +74,6 @@ For `script.js`:
   - `<summary>` and `<details>`
 - How to use developer tool (15min)
   - Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
-
-### Small developer tool exercice
-
-- Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
-- Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
-
-```
-// '*' means 'every elements'
-
-* {
- outline: 1px solid #F00;
-}
-```
-
-Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
   
 ## Presentation assignment 1
 
