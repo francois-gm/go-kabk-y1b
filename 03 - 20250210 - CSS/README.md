@@ -4,15 +4,30 @@
 
 - A website you like (Olin, Mart, François)
 
-## Recap (15min)
-<!--
+## Recap (30min)
+
 - Name an example of a HTML `tag`?
 - How would you define, in your own words, what a HTML `tag` does?
 - Name an example of a HTML `attribute`?
 - How would you define, in your own words, what a HTML `attribute` does?
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
--->
+
+### Small developer tool exercice
+
+- Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
+- Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
+
+```
+// '*' means 'every elements'
+
+* {
+ outline: 1px solid #F00;
+}
+```
+
+Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
+
 ## Tutorial: CSS (1h)
 
 > What is CSS?
