@@ -1,10 +1,10 @@
 # Class 3, 2025/02/10
 
-## Intro (20min)
+## Intro (15min)
 
 - A website you like (Olin, Mart, François)
 
-## Recap (30min)
+## Recap (20min)
 
 - Name an example of a HTML `tag`?
 - How would you define, in your own words, what a HTML `tag` does?
@@ -13,7 +13,7 @@
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
-### Small developer tool exercice
+### Small developer tool exercice (15min)
 
 - Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
 - Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
@@ -122,10 +122,7 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 ## Class time to work on the *Ode to CSS* assignment (1h30)
 
-Make **small groups** based on your CSS property, and present your `property` to the other members of the group. 
-
-- How about giving the other's property a try?
-- Would some of these help you in your own project?
+Make **small groups** based on your CSS property (see below), and present your `property` to the other members of the group. You each have **15 minutes** to present this to your small group peers.
 
 Questions to think about related to your property:
 
@@ -135,13 +132,18 @@ Questions to think about related to your property:
 - If applicable, to which HTML elements does the property works on?
 - How can you leverage the property and make a page that displays the various possibilites of it?
 
+While listening to others' properties:
+
+- How about trying out the other's property?
+- Could some of these properties help you in your own project?
+
 I will join the conversation at the following times:
-<!--
+
 | Time slot | Group |
 | -- | -------------- |
 | 15h40 | Klara, David, Bengi, Daniel, Mara, Pola |
 | 16h10 | Eva, Jerome, Luca, Jennie, Sia, Julia (F) |
 | 16h40 | Prem, Layoung, Olin, Iloy, Simone, Mart |
 | 17h10 | Jasna, Roxee, Julia (J), Yicheng, Nastya, Julia (N) |
--->
+
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1b/tree/main/02%20-%20Assignment%201%20(ode%20to%20CSS))
