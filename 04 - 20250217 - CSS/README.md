@@ -51,7 +51,7 @@ But how does the 'CSS algorithm' actually works?
 
 ## Tutorial: layouting basics with CSS (1h)
 
-We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1b/blob/main/06%20-%2020250217%20-%20CSS/my-project-template.zip).
+We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1b/blob/main/04%20-%2020250217%20-%20CSS/my-project-template.zip).
 
 First, let's do a [CSS reset](https://meyerweb.com/eric/tools/css/reset/) or a [CSS normalize](https://nicolasgallagher.com/about-normalize-css/)
 
