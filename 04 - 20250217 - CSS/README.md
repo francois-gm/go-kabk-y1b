@@ -69,8 +69,8 @@ We start with the blank template that we made in the previous class (download on
 - Size: `width`, `height`.
 - More styling properties (what would you like to see?)
 
-## Time for assignment (individual and/or small groups) (2h30)
-
+## Time for assignment (individual and/or small groups) (2h30) (TBC)
+<!--
 | Time slot | Group |
 | -- | -------------- |
 | 15h45 | -, -, -, - |
@@ -79,3 +79,4 @@ We start with the blank template that we made in the previous class (download on
 | 16h45 | -, -, -, - |
 | 17h05 | -, -, -, - |
 | 17h25 | -, -, -, - |
+-->
