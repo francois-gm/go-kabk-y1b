@@ -62,7 +62,9 @@ Then:
 - Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
 - We will use: relative positioning, absolute/fixed/sticky positioning.
 - We will add some visual differentiation across elements.
-  
+
+(in other words):
+
 - Layout properties: `display`, `position`, `float`, `clear`.
 - Size: `width`, `height`.
 - More styling properties (what would you like to see?)
