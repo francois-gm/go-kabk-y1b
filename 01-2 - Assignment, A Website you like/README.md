@@ -34,8 +34,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | -------- | --------------------- | --------------------- |
 | February 3 (class 2) | Jerome | https://tntn.xyz/patternstextile |
 | February 3 (class 2) | Bengi | https://shoppu.mochi.at |
-| February 10 (class 3) | Olin | - |
-| February 10 (class 3) | Mart | - |
+| February 10 (class 3) | Olin | https://www.rcarecords.com |
+| February 17 (class 4) | Mart | - |
 | February 17 (class 4) | David | - |
 | February 17 (class 4) | Klara | - |
 | March 3 (class 5) | Simone | - |
