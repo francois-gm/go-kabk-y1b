@@ -2,7 +2,7 @@
 
 ## Intro (20min)
 
-- A website you like (David, Klara, François)
+- A website you like (David, Klara, Mart, François)
 
 ## Recap (15min)
 <!--
