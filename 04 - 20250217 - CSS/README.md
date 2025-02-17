@@ -5,7 +5,7 @@
 - A website you like (David, Klara, Mart, François)
 
 ## Recap (15min)
-<!--
+
 - Why would one wants to add some `CSS` in project / what can CSS bring more to a `HTML` project?
 - Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
@@ -24,7 +24,7 @@
 Bonus:
 
 - What was the most **common** coding "issue" experienced during our last class (guess: it's not really a ~~coding~~ mistake)?
--->
+  
 ## Tutorial: extending on CSS selectors (15min)
 
 Last class, we saw several ways of writing *CSS selectors* to style our HTML elements.
