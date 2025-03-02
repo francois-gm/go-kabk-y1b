@@ -34,8 +34,8 @@ Then:
 - Think of the challenges / difficulties of working with this CSS property? How was this addressed?
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
 
-| Name | URL | Presented by |
-| -- | -------------- | ------------- |
+| Name | URL |
+| -- | -------------- |
 | **Nastya** presents the website of **Yicheng** | - |
 | **Eva** presents the website of **Daniel** | - |
 | **Yicheng** presents the website of **Mara** | - |
