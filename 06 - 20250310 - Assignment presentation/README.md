@@ -35,7 +35,7 @@ Then:
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
 
 | Name | URL |
-| -- | -------------- |
+| - | - |
 | **Nastya** presents the website of **Yicheng** | - |
 | **Eva** presents the website of **Daniel** | - |
 | **Yicheng** presents the website of **Mara** | - |
