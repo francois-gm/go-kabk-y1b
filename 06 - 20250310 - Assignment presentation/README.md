@@ -4,11 +4,6 @@
 
 - A website you like (Simone, Iloy, Julia (F), François)
 
-**About next class's (Tuesday March 18th) workshop…**
-
-- Guess tutor class with [Yara Veloso](https://www.yaraveloso.nu).
-- Yara will do a lunch lecture/presentation of her work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
-
 ## An *Ode to CSS*, each present their final project (1h)
 
 ### a) Put your website online (15min)
