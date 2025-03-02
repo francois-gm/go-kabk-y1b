@@ -38,10 +38,10 @@ Duration of the presentation: **around 2 minutes** per person.
 | February 17 (class 4) | Mart | https://www.myretrotvs.com |
 | February 17 (class 4) | David | https://prayingg.com |
 | February 17 (class 4) | Klara | https://bruno-simon.com |
-| March 3 (class 5) | Simone | - |
-| March 3 (class 5) | Iloy | - |
+| March 10 (class 6) | Simone | - |
+| March 10 (class 6) | Iloy | - |
 | March 10 (class 6) | Julia (F) | - |
-| March 10 (class 6) | Jennie | - |
+| March 17 (class 7) | Jennie | - |
 | March 17 (class 7) | Prem | - |
 | March 17 (class 7) | Julia (J) | - |
 | March 24 (class 8) | Roxee | - |
