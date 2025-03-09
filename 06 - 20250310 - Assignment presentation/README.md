@@ -1,12 +1,12 @@
 # Class 6, 2025/03/10
 
-## Intro (20min)
+## Intro (15min)
 
 - A website you like (Simone, Iloy, Julia (F), François)
 
-## An *Ode to CSS*, each present their final project (1h)
+## An *Ode to CSS*, each present their final project (1h45)
 
-### a) Put your website online (15min)
+### a) Put your website online (30min)
 
 1) Create an account on [Netlify](https://app.netlify.com).
 2) `Site` -> `Deploy manually` (`browse to upload`).
@@ -15,7 +15,7 @@
 
 Add your url to the list.
 
-### b) Presentation
+### b) Presentation (1h15)
 
 - You have **two minutes** to present the website of one of your classmate (so not your website).
 - First, do a *test drive* of the website. *Click, resize, scroll*…
@@ -28,6 +28,7 @@ Then:
 - Give a **positive quality** / something you **appreciate** in the website, and tell us **why**.
 - Think of the challenges / difficulties of working with this CSS property? How was this addressed?
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
+
 <!--
 | Name | URL |
 | - | - |
