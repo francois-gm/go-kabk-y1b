@@ -1,10 +1,7 @@
-# Class 5, 2025/03/03
+# Class 8, 2025/03/31
 
 **About Tuesday March 18th's workshop…**
 
-- Guess tutor class with [Yara Veloso](https://www.yaraveloso.nu).
-- Yara will do a lunch lecture/presentation of her work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
-  
 ## *Ode to CSS* assignment time, sign-up sheet
 
 | Time slot | Student |
