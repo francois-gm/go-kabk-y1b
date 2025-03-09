@@ -4,7 +4,7 @@
 
 ## Guest class
 
-We start with the blank template provided by Yara
+We start with the blank template provided by Yara.
 
 ## Put your website online (15min)
 <!--
