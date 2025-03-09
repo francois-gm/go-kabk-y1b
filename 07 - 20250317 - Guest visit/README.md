@@ -1,4 +1,4 @@
-# Class 8, 2025/03/18
+# Class 7, 2025/03/18
 
 ## Guest presentation, [Yara Veloso](https://www.yaraveloso.nu) (12h45-13h30)
 
