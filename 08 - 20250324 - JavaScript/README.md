@@ -1,4 +1,4 @@
-# Class 9, 2024/11/11
+# Class 8, 2025/03/24
 
 ## Tutorial: Javascript essentials (30min)
 
