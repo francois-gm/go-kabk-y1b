@@ -38,9 +38,9 @@ Duration of the presentation: **around 2 minutes** per person.
 | February 17 (class 4) | Mart | https://www.myretrotvs.com |
 | February 17 (class 4) | David | https://prayingg.com |
 | February 17 (class 4) | Klara | https://bruno-simon.com |
-| March 10 (class 6) | Simone | - |
-| March 10 (class 6) | Iloy | - |
-| March 10 (class 6) | Julia (F) | - |
+| March 10 (class 6) | Simone | https://messup.it |
+| March 10 (class 6) | Iloy | https://www.acnestudios.com |
+| March 10 (class 6) | Julia (F) | https://banjosoundscapes.com |
 | March 18 (class 7) | Jennie | - |
 | March 18 (class 7) | Prem | - |
 | March 18 (class 7) | Julia (J) | - |
