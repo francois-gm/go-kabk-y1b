@@ -40,7 +40,7 @@ Then:
 | **Pola** presents the website of **Julia (N)** | https://shiny-sprinkles-20a976.netlify.app |
 | **Jasna** presents the website of **Sia** | - |
 | **Julia (N)** presents the website of **Luca** | https://stellular-syrniki-e57ecb.netlify.app |
-| **Sia** presents the website of **Layoung** | - |
+| **Sia** presents the website of **Layoung** | https://neon-beignet-2a9434.netlify.app |
 | **Luca** presents the website of **Roxee** | https://my-little-plant.netlify.app |
 | **Layoung** presents the website of **Julia (J)** | https://juliasbestwebtransitioncoolstuff.netlify.app |
 | **Roxee** presents the website of **Prem** | https://premdai-super-cool-site-yeah.netlify.app |
