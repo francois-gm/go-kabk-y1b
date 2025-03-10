@@ -32,28 +32,28 @@ Then:
 
 | Name | URL |
 | - | - |
-| **Nastya** presents the website of **Yicheng** | - |
-| **Eva** presents the website of **Daniel** | - |
-| **Yicheng** presents the website of **Mara** | - |
-| **Daniel** presents the website of **Pola** | - |
-| **Mara** presents the website of **Jasna** | - |
-| **Pola** presents the website of **Julia (N)** | - |
+| **Nastya** presents the website of **Yicheng** | https://warm-lollipop-92b94d.netlify.app |
+| **Eva** presents the website of **Daniel** | https://bboorrddeerrss.netlify.app |
+| **Yicheng** presents the website of **Mara** | https://skibidi-toilet-rizz-1000.netlify.app |
+| **Daniel** presents the website of **Pola** | https://spiffy-sfogliatella-0ee3cb.netlify.app |
+| **Mara** presents the website of **Jasna** | https://eloquent-fox-bedec9.netlify.app |
+| **Pola** presents the website of **Julia (N)** | https://shiny-sprinkles-20a976.netlify.app |
 | **Jasna** presents the website of **Sia** | - |
-| **Julia (N)** presents the website of **Luca** | - |
+| **Julia (N)** presents the website of **Luca** | https://stellular-syrniki-e57ecb.netlify.app |
 | **Sia** presents the website of **Layoung** | - |
-| **Luca** presents the website of **Roxee** | - |
-| **Layoung** presents the website of **Julia (J)** | - |
-| **Roxee** presents the website of **Prem** | - |
-| **Julia (J)** presents the website of **Jennie** | - |
-| **Prem** presents the website of **Julia (F)** | - |
-| **Jennie** presents the website of **Iloy** | - |
+| **Luca** presents the website of **Roxee** | my-little-plant.netlify.app |
+| **Layoung** presents the website of **Julia (J)** | https://juliasbestwebtransitioncoolstuff.netlify.app |
+| **Roxee** presents the website of **Prem** | https://premdai-super-cool-site-yeah.netlify.app |
+| **Julia (J)** presents the website of **Jennie** | https://visualinspirationarchive.netlify.app |
+| **Prem** presents the website of **Julia (F)** | https://heroic-kelpie-d68a35.netlify.app |
+| **Jennie** presents the website of **Iloy** | https://67cee67e9b11e8070351bc00--transcendent-fenglisu-b2ba9f.netlify.app |
 | **Julia (F)** presents the website of **Simone** | - |
-| **Iloy** presents the website of **Klara** | - |
-| **Simone** presents the website of **David** | - |
-| **Klara** presents the website of **Mart** | - |
+| **Iloy** presents the website of **Klara** | https://meek-clafoutis-e141ee.netlify.app |
+| **Simone** presents the website of **David** | https://ode-to-backgrounds-and-hamsters.netlify.app |
+| **Klara** presents the website of **Mart** | https://martsdailydoodles.netlify.app |
 | **David** presents the website of **Olin** | - |
-| **Mart** presents the website of **Bengi** | - |
+| **Mart** presents the website of **Bengi** | https://super-opacity-bunny-bf5b74.netlify.app |
 | **Olin** presents the website of **Jerome** | - |
-| **Bengi** presents the website of **Nastya** | - |
-| **Jerome** presents the website of **Eva** | - |
+| **Bengi** presents the website of **Nastya** | https://animated-sorbet-d377ea.netlify.app |
+| **Jerome** presents the website of **Eva** | https://size-umits.netlify.app |
 
