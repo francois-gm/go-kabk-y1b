@@ -29,7 +29,7 @@ Then:
 - Think of the challenges / difficulties of working with this CSS property? How was this addressed?
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
 
-<!--
+
 | Name | URL |
 | - | - |
 | **Nastya** presents the website of **Yicheng** | - |
@@ -56,4 +56,4 @@ Then:
 | **Olin** presents the website of **Jerome** | - |
 | **Bengi** presents the website of **Nastya** | - |
 | **Jerome** presents the website of **Eva** | - |
--->
+
