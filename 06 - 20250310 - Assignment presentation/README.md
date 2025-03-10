@@ -41,7 +41,7 @@ Then:
 | **Jasna** presents the website of **Sia** | - |
 | **Julia (N)** presents the website of **Luca** | https://stellular-syrniki-e57ecb.netlify.app |
 | **Sia** presents the website of **Layoung** | - |
-| **Luca** presents the website of **Roxee** | my-little-plant.netlify.app |
+| **Luca** presents the website of **Roxee** | https://my-little-plant.netlify.app |
 | **Layoung** presents the website of **Julia (J)** | https://juliasbestwebtransitioncoolstuff.netlify.app |
 | **Roxee** presents the website of **Prem** | https://premdai-super-cool-site-yeah.netlify.app |
 | **Julia (J)** presents the website of **Jennie** | https://visualinspirationarchive.netlify.app |
