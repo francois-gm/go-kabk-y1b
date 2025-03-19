@@ -43,7 +43,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 10 (class 6) | Julia (F) | https://banjosoundscapes.com |
 | March 18 (class 7) | Prem | http://www.xxx-clairewilliams-xxx.com |
 | March 18 (class 7) | Julia (J) | https://diagram.website |
-| March 24 (class 9) | Jennie | - |
+| March 24 (class 8) | Jennie | - |
 | March 24 (class 8) | Roxee | - |
 | March 24 (class 8) | Layoung | - |
 | March 31 (class 9) | Luca | - |
