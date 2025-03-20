@@ -43,13 +43,11 @@ But of course there are other examples.
 - Text-free browsing, Rafaël Rozendaal & Jonas Lund: https://www.newrafael.com/text-free-browsing/
 - Safebook: https://bengrosser.com/projects/safebook/
 - Reload the love: https://bengrosser.com/projects/reload-the-love/
-- Bylines (paywall popup when 10 articles written by men in a row are read): https://www.are.na/kira-simon-kennedy/bylines
-- Make Trump tweets 8 again: https://addons.mozilla.org/en-US/firefox/addon/make-trump-tweets-eight-again/?src=search
-- Oops all Elons!: https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0
-- Choice language: https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd
-- Internet Illuminator: https://allisonburtch.github.io/plugin/
-
-https://therevolvinginternet.com/ (uses iframes)
+- [Bylines](https://www.are.na/kira-simon-kennedy/bylines): *paywall popup when 10 articles written by men in a row are read*
+- [Make Trump tweets 8 again](https://addons.mozilla.org/en-US/firefox/addon/make-trump-tweets-eight-again/?src=search): *changes the typeface of Donald Trump's tweets for a child-like handwriting*
+- [Oops all Elons!](https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0): *changes all facebook user's images and names for Elon Musk*
+- [Choice language](https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd): *replaces the term "pro-life" by "anti-choice" on any websites*
+- [The Revolving Internet](https://therevolvinginternet.com/): *makes the website rotates on itself (uses iframes)*
 
 
 
