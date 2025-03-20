@@ -29,20 +29,16 @@ But of course there are other examples.
 
 
 
-- [Ethicly](https://www.ethicly.info/): *boycott products from unethical companies*
+- [Ethicly](https://www.ethicly.info/): *provides boycott recommendation for products from unethical companies*
 - [Terms of service, didn’t read](https://tosdr.org/en): *rephrases terms and conditions on websites in an understandable language*
 - [Leaf](https://chromewebstore.google.com/detail/leaf-browser/kppcmdpolcfihnkfbngahdofkdnfbkan/related): *shows a leaf on webpages*
 - [Go Rando](https://chromewebstore.google.com/detail/go-rando/mjbieolneliipggbbfmfmbohcgldhlon?hl=en): *Obfuscates your feelings on Facebook, swaps facebook like "reactions" for different ones*
-- [Clippy the Paperclip](https://chromewebstore.google.com/detail/clippy-the-paperclip-assi/fmbcdhjmhddnnpeomknikdbboejbhdcl?hl=en-US): *adds Clippy to pages*
-- [Hide ratings from IMDB](https://chromewebstore.google.com/detail/hide-ratings-imdbgoodread/cnjhjnjbpedipoamajojlbfakbadgiam)
 - [Bad connection simulator](https://chromewebstore.google.com/detail/bad-connection-simulator/gflankmgolakfdeiponkgmbhbhpdmjlg): *simulate bad internet during in-browser video calls*
 - [Ponyhoff](https://jointheherd.little.my): *transforms webpages into pony-pages*
-- Catblock (adblock but switch ads for cats): https://getcatblock.com/
-- Unhook Youtube: https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid
-- Abstract browsing, Rafaël Rozendaal: https://www.abstractbrowsing.net/
-- Text-free browsing, Rafaël Rozendaal & Jonas Lund: https://www.newrafael.com/text-free-browsing/
-- Safebook: https://bengrosser.com/projects/safebook/
-- Reload the love: https://bengrosser.com/projects/reload-the-love/
+- [Catblock](https://getcatblock.com/): *Adblock but switch ads for cats)*
+- [Abstract browsing, Rafaël Rozendaal](https://www.abstractbrowsing.net/): *-*
+- [Safebook](https://bengrosser.com/projects/safebook/): *-*
+- [Reload the love](https://bengrosser.com/projects/reload-the-love/): *-*
 - [Bylines](https://www.are.na/kira-simon-kennedy/bylines): *paywall popup when 10 articles written by men in a row are read*
 - [Make Trump tweets 8 again](https://addons.mozilla.org/en-US/firefox/addon/make-trump-tweets-eight-again/?src=search): *changes the typeface of Donald Trump's tweets for a child-like handwriting*
 - [Oops all Elons!](https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0): *changes all facebook user's images and names for Elon Musk*
