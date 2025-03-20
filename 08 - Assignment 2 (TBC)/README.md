@@ -2,6 +2,8 @@
 
 ## Presentation
 
+📝🚨 Summarize in 4-5 points the assignment 📝🚨
+
 - A
 - B
 - C
@@ -27,8 +29,6 @@ One of the most famous examples is the “Ad blocker”. An “ad blocker” is 
 
 But of course there are other examples.
 
-
-
 - [Ethicly](https://www.ethicly.info/): *provides boycott recommendation for products from unethical companies*
 - [Terms of service, didn’t read](https://tosdr.org/en): *rephrases terms and conditions on websites in an understandable language*
 - [Leaf](https://chromewebstore.google.com/detail/leaf-browser/kppcmdpolcfihnkfbngahdofkdnfbkan/related): *shows a leaf on webpages*
@@ -43,6 +43,24 @@ But of course there are other examples.
 - [Oops all Elons!](https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0): *changes all facebook user's images and names for Elon Musk*
 - [Choice language](https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd): *replaces the term "pro-life" by "anti-choice" on any websites*
 - [The Revolving Internet](https://therevolvinginternet.com/): *makes the website rotates on itself (uses iframes)*
+
+### The assignment, in details
+
+📝🚨 Things to do, things to keep in mind. 📝🚨
+
+## Getting started
+
+📝🚨 How to configure a starterkit 📝🚨
+
+Basic examples:
+- Change some styling (CSS)
+- Find text strings and replace them (JS)
+- Filter the DOM for an element (JS)
+- Add an element to the DOM (JS)
+
+
+
+
 
 
 
