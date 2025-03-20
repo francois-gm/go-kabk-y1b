@@ -29,18 +29,15 @@ But of course there are other examples.
 
 
 
-- Ethicly (boycot products from unethical companies): https://www.ethicly.info/
-- Terms of service, didn’t read (rephrases terms and conditions on websites in an understandable language): https://tosdr.org/en
-- Black and white (converts webpages into black and white): https://chrome-stats.com/d/amdnjmpcoialaikdldjbnkipmckdheie
-
-- Leaf, *shows a leaf on webpages*: https://chromewebstore.google.com/detail/leaf-browser/kppcmdpolcfihnkfbngahdofkdnfbkan/related
-
-https://chromewebstore.google.com/detail/go-rando/mjbieolneliipggbbfmfmbohcgldhlon?hl=en
-
-- Clippy the Paperclip, *adds Clippy to pages*: https://chromewebstore.google.com/detail/clippy-the-paperclip-assi/fmbcdhjmhddnnpeomknikdbboejbhdcl?hl=en-US
-Hide ratings from IMDB: https://chromewebstore.google.com/detail/hide-ratings-imdbgoodread/cnjhjnjbpedipoamajojlbfakbadgiam
-Bad connection simulator (for video calls): https://chromewebstore.google.com/detail/bad-connection-simulator/gflankmgolakfdeiponkgmbhbhpdmjlg
-Ponyhoff (transforms webpages into pony-pages): https://jointheherd.little.my
+- [Ethicly](https://www.ethicly.info/): *boycott products from unethical companies*
+- [Terms of service, didn’t read](https://tosdr.org/en): *rephrases terms and conditions on websites in an understandable language*
+- [Black and white](https://chrome-stats.com/d/amdnjmpcoialaikdldjbnkipmckdheie): *converts webpages into black and white*
+- [Leaf](https://chromewebstore.google.com/detail/leaf-browser/kppcmdpolcfihnkfbngahdofkdnfbkan/related): *shows a leaf on webpages*
+- [Go Rando](https://chromewebstore.google.com/detail/go-rando/mjbieolneliipggbbfmfmbohcgldhlon?hl=en): *swaps facebook like "reactions" for different ones*
+- [Clippy the Paperclip](https://chromewebstore.google.com/detail/clippy-the-paperclip-assi/fmbcdhjmhddnnpeomknikdbboejbhdcl?hl=en-US): *adds Clippy to pages*
+- [Hide ratings from IMDB](https://chromewebstore.google.com/detail/hide-ratings-imdbgoodread/cnjhjnjbpedipoamajojlbfakbadgiam)
+- [Bad connection simulator](https://chromewebstore.google.com/detail/bad-connection-simulator/gflankmgolakfdeiponkgmbhbhpdmjlg): *simulate bad internet during in-browser video calls*
+- [Ponyhoff](https://jointheherd.little.my): *transforms webpages into pony-pages*
 
 Catblock (adblock but switch ads for cats): https://getcatblock.com/
 Switches images for Nicholas Cage: https://chromewebstore.google.com/detail/ncage/mpnfndnehgmmonhfcfdnaemdeokofgaf?hl=en
