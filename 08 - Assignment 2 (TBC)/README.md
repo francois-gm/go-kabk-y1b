@@ -35,7 +35,7 @@ But of course there are other examples.
 - [Bad connection simulator](https://chromewebstore.google.com/detail/bad-connection-simulator/gflankmgolakfdeiponkgmbhbhpdmjlg): *simulate bad internet during in-browser video calls*
 - [Ponyhoff](https://jointheherd.little.my): *transforms webpages into pony-pages*
 - [Catblock](https://getcatblock.com/): *Adblock but switch ads for cats)*
-- [Abstract browsing, Rafaël Rozendaal](https://www.abstractbrowsing.net/): *-*
+- [Abstract browsing, Rafaël Rozendaal](https://www.abstractbrowsing.net/): *Styles the whole website with saturated colors and no content*
 - [Safebook](https://bengrosser.com/projects/safebook/): *Facebook without the content*
 - [Reload the love](https://bengrosser.com/projects/reload-the-love/): *Artificially inflate your facebook likes and messages*
 - [Bylines](https://www.are.na/kira-simon-kennedy/bylines): *paywall popup when 10 articles written by men in a row are read*
