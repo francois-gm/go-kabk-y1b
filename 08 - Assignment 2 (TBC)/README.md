@@ -31,7 +31,6 @@ But of course there are other examples.
 
 - [Ethicly](https://www.ethicly.info/): *boycott products from unethical companies*
 - [Terms of service, didn’t read](https://tosdr.org/en): *rephrases terms and conditions on websites in an understandable language*
-- [Black and white](https://chrome-stats.com/d/amdnjmpcoialaikdldjbnkipmckdheie): *converts webpages into black and white*
 - [Leaf](https://chromewebstore.google.com/detail/leaf-browser/kppcmdpolcfihnkfbngahdofkdnfbkan/related): *shows a leaf on webpages*
 - [Go Rando](https://chromewebstore.google.com/detail/go-rando/mjbieolneliipggbbfmfmbohcgldhlon?hl=en): *swaps facebook like "reactions" for different ones*
 - [Clippy the Paperclip](https://chromewebstore.google.com/detail/clippy-the-paperclip-assi/fmbcdhjmhddnnpeomknikdbboejbhdcl?hl=en-US): *adds Clippy to pages*
