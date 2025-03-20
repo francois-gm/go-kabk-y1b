@@ -38,24 +38,17 @@ But of course there are other examples.
 - [Hide ratings from IMDB](https://chromewebstore.google.com/detail/hide-ratings-imdbgoodread/cnjhjnjbpedipoamajojlbfakbadgiam)
 - [Bad connection simulator](https://chromewebstore.google.com/detail/bad-connection-simulator/gflankmgolakfdeiponkgmbhbhpdmjlg): *simulate bad internet during in-browser video calls*
 - [Ponyhoff](https://jointheherd.little.my): *transforms webpages into pony-pages*
-
-Catblock (adblock but switch ads for cats): https://getcatblock.com/
-Switches images for Nicholas Cage: https://chromewebstore.google.com/detail/ncage/mpnfndnehgmmonhfcfdnaemdeokofgaf?hl=en
-Unhook Youtube: https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid
-
-Abstract browsing, Rafaël Rozendaal: https://www.abstractbrowsing.net/
-Text-free browsing, Rafaël Rozendaal & Jonas Lund: https://www.newrafael.com/text-free-browsing/
-Safebook: https://bengrosser.com/projects/safebook/
-Reload the love: https://bengrosser.com/projects/reload-the-love/
-Art replaces Ads: https://visitsteve.com/made/add-art-art-replaces-ads/
-Bylines (paywall popup when 10 articles written by men in a row are read): https://www.are.na/kira-simon-kennedy/bylines
-
-Make Trump tweets 8 again: https://addons.mozilla.org/en-US/firefox/addon/make-trump-tweets-eight-again/?src=search
-Oops all Elons!: https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0
-Woke.js: https://addons.mozilla.org/en-US/firefox/addon/woke-js/
-Choice language: https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd
-Un-transcender:  https://dexdigi.medium.com/i-made-a-chrome-extension-that-changes-transcended-race-to-was-deemed-safe-by-white-people-47649e79b3bd
-Internet Illuminator: https://allisonburtch.github.io/plugin/
+- Catblock (adblock but switch ads for cats): https://getcatblock.com/
+- Unhook Youtube: https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid
+- Abstract browsing, Rafaël Rozendaal: https://www.abstractbrowsing.net/
+- Text-free browsing, Rafaël Rozendaal & Jonas Lund: https://www.newrafael.com/text-free-browsing/
+- Safebook: https://bengrosser.com/projects/safebook/
+- Reload the love: https://bengrosser.com/projects/reload-the-love/
+- Bylines (paywall popup when 10 articles written by men in a row are read): https://www.are.na/kira-simon-kennedy/bylines
+- Make Trump tweets 8 again: https://addons.mozilla.org/en-US/firefox/addon/make-trump-tweets-eight-again/?src=search
+- Oops all Elons!: https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0
+- Choice language: https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd
+- Internet Illuminator: https://allisonburtch.github.io/plugin/
 
 https://therevolvinginternet.com/ (uses iframes)
 
