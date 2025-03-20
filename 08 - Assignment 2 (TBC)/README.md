@@ -32,7 +32,7 @@ But of course there are other examples.
 - [Ethicly](https://www.ethicly.info/): *boycott products from unethical companies*
 - [Terms of service, didn’t read](https://tosdr.org/en): *rephrases terms and conditions on websites in an understandable language*
 - [Leaf](https://chromewebstore.google.com/detail/leaf-browser/kppcmdpolcfihnkfbngahdofkdnfbkan/related): *shows a leaf on webpages*
-- [Go Rando](https://chromewebstore.google.com/detail/go-rando/mjbieolneliipggbbfmfmbohcgldhlon?hl=en): *swaps facebook like "reactions" for different ones*
+- [Go Rando](https://chromewebstore.google.com/detail/go-rando/mjbieolneliipggbbfmfmbohcgldhlon?hl=en): *Obfuscates your feelings on Facebook, swaps facebook like "reactions" for different ones*
 - [Clippy the Paperclip](https://chromewebstore.google.com/detail/clippy-the-paperclip-assi/fmbcdhjmhddnnpeomknikdbboejbhdcl?hl=en-US): *adds Clippy to pages*
 - [Hide ratings from IMDB](https://chromewebstore.google.com/detail/hide-ratings-imdbgoodread/cnjhjnjbpedipoamajojlbfakbadgiam)
 - [Bad connection simulator](https://chromewebstore.google.com/detail/bad-connection-simulator/gflankmgolakfdeiponkgmbhbhpdmjlg): *simulate bad internet during in-browser video calls*
