@@ -2,6 +2,9 @@
 
 ## Tutorial: web extension starter kit (2h)
 
+1) Create a folder named `my-extension-project`
+2) Create a new file inside and name it `manifest.json`
+
 ## Extensions, ressources:
 
 https://developer.chrome.com/docs/extensions/get-started?hl=en
