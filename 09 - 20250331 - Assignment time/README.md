@@ -50,7 +50,7 @@ Add this in your file:
 
 The `manifest.json` is an essential file for your project. A bit like the `head` of your HTML document, it provides metadata regarding your project.
 
-In this example, we linked a `script.js` and `style.css` file, these apply to **all** URLs visited by us. By changing the value of `matches` or setting an `exclude_matches` name/value, we can choose which URLs apply our scripts and styles. We can also offer different stylesheets based on different URLs. See the full documentation on [manifest.json on the MDN website](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json)
+In this example, we linked a `script.js` and `style.css` file, these apply to **all** URLs visited by us. By changing the value of `matches` or setting an `exclude_matches` name/value, we can choose which URLs apply our scripts and styles. We can also offer different stylesheets based on different URLs. See the full documentation on [manifest.json on the MDN website].(https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json)
 
 Examples with matches:
 
@@ -66,7 +66,7 @@ Examples with matches:
             ...
 ```
 
-Applies to the two websites mentionned in *matches* (the `*` is called a *wildcard*, and it means that all URLs after the slash will work as well), but excludes a specific terms-of-service subpage.
+> ...applies to the two websites mentionned in *matches* (the `*` is called a *wildcard*, and it means that all URLs after the slash will work as well), but excludes a specific terms-of-service subpage.
 
 If you are using files in your project (webfonts, images), they need to be preconnected within your manifest.json file by using the `web_accessible_resources` key.
 
