@@ -2,13 +2,11 @@
 
 ## Presentation
 
-📝🚨 Summarize in 4-5 points the assignment 📝🚨
-
-- Make a browser extension (for Chrome) with the help of HTML, CSS and Javascript
-- Your extension can be designed for one specific website, or *all* websites
+- Make a **browser extension** (for Chrome) with the help of HTML, CSS and Javascript.
+- Your extension can be designed for one specific website, or *all* websites.
 - Think about what your extension will do: **enhance/complement** a website, add **fun and personality** to a website, **add/change/remove** contents, add new **functionalities**?...
 - But also, conceptually, what can your extension bring to website(s)? Do you make a statement, either hands-on, activist, conceptually, artististically? What can you add, remove, or change to a website but also **why you would want to do that** and **what does this mean**?
-- We will have a look at basic potentialities with JavaScript and CSS (add/remove elements from page, and change their styling)
+- We will have a look at basic potentialities with JavaScript and CSS (add/remove elements from page, and change their styling).
 - Because browser extensions have to be installed, you will also have to think about how to present/showcase it to your peers online. Think about your extension's **name**, its product **presentation page** (you do a separate HTML page to promote it), and **download/installation instructions**.
 
 Schedule:
@@ -17,7 +15,7 @@ Schedule:
 - **31 March**: small group follow-up on the assignment (2h) (*you have an idea, and can discuss it with sketches*) 
 - **7 April**: individual follow-up on the assignment (4h) (*you have a working document and started sketching/coding in your document*)
 - **14 April**: small group follow-up on the assignment (2h) + (*your project does what is is supposed to do, you are fine-tuning it and gathering user feedback*)
-- **12 May**: individual/small group follow-up on the assignment (–) + (*you have a presentation page as well for your extension*)
+- **12 May**: individual/small group follow-up on the assignment (*you have a presentation page as well for your extension*)
 - **19 May**: delivery and presentation of the assignment in class
   
 ## A web intervention: develop a browser extension
