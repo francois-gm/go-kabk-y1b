@@ -66,7 +66,7 @@ Examples with matches:
             ...
 ```
 
-> ...applies to the two websites mentionned in *matches* (the `*` is called a *wildcard*, and it means that all URLs after the slash will work as well), but excludes a specific terms-of-service subpage.
+...applies to the two websites mentionned in *matches* (the `*` is called a *wildcard*, and it means that all URLs after the slash will work as well), but excludes a specific terms-of-service subpage.
 
 If you are using files in your project (webfonts, images), they need to be preconnected within your manifest.json file by using the `web_accessible_resources` key.
 
@@ -80,15 +80,10 @@ If you are using files in your project (webfonts, images), they need to be preco
     ...
 ```
 
+3) Create a new file named `scripts.js`, located in the root of your `my-extension-project` folder.
+4) Create a new file named `style.css`, located in the root of your `my-extension-project` folder.
+5) Create a `images` folder in the root of your `my-extension-project` folder. Create an `icon` folder inside this new `images` folder. Inside that `icon` folder, drop a file called `icon.png`.
 
-
-3) Then create a new file named `background.js`
-
-And add this in your file:
-
-`
-
-`
 
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
