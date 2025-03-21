@@ -1,14 +1,5 @@
 # Class 9, 2025/03/31
 
-## web extension: a primer
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json
-
-## debugging your web extension
-
-https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
-
-
 ## Tutorial: web extension starter kit (2h)
 
 1) Create a folder named `my-extension-project`.
@@ -50,7 +41,7 @@ Add this in your file:
 
 The `manifest.json` is an essential file for your project. A bit like the `head` of your HTML document, it provides metadata regarding your project.
 
-In this example, we linked a `script.js` and `style.css` file, these apply to **all** URLs visited by us. By changing the value of `matches` or setting an `exclude_matches` name/value, we can choose which URLs apply our scripts and styles. We can also offer different stylesheets based on different URLs. See the full documentation on [manifest.json on the MDN website].(https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json)
+In this example, we linked a `script.js` and `style.css` file, these apply to **all** URLs visited by us. By changing the value of `matches` or setting an `exclude_matches` name/value, we can choose which URLs apply our scripts and styles. We can also offer different stylesheets based on different URLs. See the full documentation on [manifest.json on the MDN website](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json).
 
 Examples with matches:
 
@@ -83,6 +74,11 @@ If you are using files in your project (webfonts, images), they need to be preco
 3) Create a new file named `scripts.js`, located in the root of your `my-extension-project` folder.
 4) Create a new file named `style.css`, located in the root of your `my-extension-project` folder.
 5) Create a `images` folder in the root of your `my-extension-project` folder. Create an `icon` folder inside this new `images` folder. Inside that `icon` folder, drop a file called `icon.png`.
+
+
+## Installing and debugging your web extension
+
+https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
 
 
 
