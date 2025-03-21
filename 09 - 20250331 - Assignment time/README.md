@@ -75,16 +75,19 @@ If you are using files in your project (webfonts, images), they need to be preco
 4) Create a new file named `style.css`, located in the root of your `my-extension-project` folder.
 5) Create a `images` folder in the root of your `my-extension-project` folder. Create an `icon` folder inside this new `images` folder. Inside that `icon` folder, drop a file called `icon.png`.
 
+## Extension structure, a primer
+
+(anatomy of an extension)
 
 ## Installing and debugging your web extension
 
 https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
 
-
-
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
 
-## Extensions, ressources:
+## Extensions, further ressources:
+
+https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
 
 https://developer.chrome.com/docs/extensions/get-started?hl=en
 
