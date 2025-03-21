@@ -56,9 +56,13 @@ Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozi
 
 ### Things to keep in mind
 
-- Be aware of your skills: playful interventions
-
-📝🚨 Things to do, things to keep in mind. 📝🚨
+- Be aware of your skills
+- Be playful
+- A "concept" is the first step (attention to details can come later)
+- The "functionality" direction can prove more challenging that initially thought
+- It does not work, it's too complicated? Then don't stick to it: find alternative ways of expressing your ideas.
+- Test, test, test
+- Involve your classmates (!)
 
 ## Getting started
 
