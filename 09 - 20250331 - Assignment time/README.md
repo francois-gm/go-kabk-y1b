@@ -1,9 +1,18 @@
 # Class 9, 2025/03/31
 
+## web extension: a primer
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json
+
+## debugging your web extension
+
+https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
+
+
 ## Tutorial: web extension starter kit (2h)
 
 1) Create a folder named `my-extension-project`
-2) Create a new file inside and name it `manifest.json`
+2) Create your `manifest.json` file inside your project folder.
 
 Add this in your file:
 
@@ -14,21 +23,64 @@ Add this in your file:
     "description": "My extension description",
     "version": "1.0",
     "icons": {
-      "16": "images/icon/icon-16.png",
-      "32": "images/icon/icon-32.png",
-      "48": "images/icon/icon-48.png",
-      "128": "images/icon/icon-128.png"
-    }
+      "16": "images/icon/icon.png",
+      "32": "images/icon/icon.png",
+      "48": "images/icon/icon.png",
+      "128": "images/icon/icon.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "images/icon/icon.png",
+            "32": "images/icon/icon.png",
+            "48": "images/icon/icon.png",
+            "128": "images/icon/icon.png"
+        }
+    },
+    "content_scripts": [
+        {   
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["script.js"],
+            "css" : ["style.css"]
+        }
+    ]
 }
 ```
 
-And then add this after the closing curly bracket of `icons` (don't forget to add a comma).
+The `manifest.json` is an essential file for your project. A bit like the `head` of your HTML document, it provides metadata regarding your project.
+
+In this example, we linked a `script.js` and `style.css` file, these apply to **all** URLs visited by us. By changing the value of `matches` or setting an `exclude_matches` name/value, we can choose which URLs apply our scripts and styles. We can also offer different stylesheets based on different URLs. See the full documentation on [manifest.json on the MDN website](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json)
+
+Examples with matches:
 
 ```
-    "background": {
-      "service_worker": "background.js"
-    }
+            ...
+            "matches": [
+                "https://www.theguardian.com/*",
+                "https://www.hetparool.com/*"
+            ],
+            "exclude_matches": [
+                "https://www.theguardian.com/help/terms-of-service"
+            ],
+            ...
 ```
+
+Applies to the two websites mentionned in *matches* (the `*` is called a *wildcard*, and it means that all URLs after the slash will work as well), but excludes a specific terms-of-service subpage.
+
+If you are using files in your project (webfonts, images), they need to be preconnected within your manifest.json file by using the `web_accessible_resources` key.
+
+```
+    ...
+    "web_accessible_resources": [
+        "images/my-image.png",
+        "images/my-image-2.png",
+        "fonts/my-font.woff2",
+    ]
+    ...
+```
+
+
 
 3) Then create a new file named `background.js`
 
@@ -44,6 +96,8 @@ https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-active
 ## Extensions, ressources:
 
 https://developer.chrome.com/docs/extensions/get-started?hl=en
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples
 
 ## *Web intervention* assignment time, small group talks, sign-up sheet
 
