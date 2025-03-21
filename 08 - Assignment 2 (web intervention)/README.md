@@ -54,13 +54,17 @@ Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozi
 - [Choice language](https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd): *replaces the term "pro-life" by "anti-choice" on any websites*
 - [The Revolving Internet](https://therevolvinginternet.com/): *makes the website rotates on itself (uses iframes)*
 
-### The assignment, in details
+### Things to keep in mind
+
+- Be aware of your skills: playful interventions
 
 📝🚨 Things to do, things to keep in mind. 📝🚨
 
 ## Getting started
 
-📝🚨 How to configure a starterkit 📝🚨
+Let's build a starterkit.
+
+https://developer.chrome.com/docs/extensions/get-started?hl=en
 
 Basic examples:
 - Change some styling (CSS)
