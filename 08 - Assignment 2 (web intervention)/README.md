@@ -1,6 +1,6 @@
 # A web intervention (assignment 2)
 
-## Presentation
+## In short
 
 - Make a **browser extension** (for Chrome) with the help of HTML, CSS and Javascript.
 - Your extension can be designed for one specific website, or *all* websites.
@@ -18,7 +18,7 @@ Schedule:
 - **12 May**: individual/small group follow-up on the assignment (*you have a presentation page as well for your extension*)
 - **19 May**: delivery and presentation of the assignment in class
   
-## A web intervention: develop a browser extension
+## Presentation
 
 In the past weeks, we have touched upon HTML and CSS, learning how to place basic HTML content elements and style them. For this assignment, we will combine what we’ve learned with a new programming language, JavaScript, and will create an intervention on existing web pages.
 
@@ -28,7 +28,16 @@ A browser extension is a piece of code that is read by your browser on **top** o
 
 One of the most famous examples is the “Ad blocker”. An “ad blocker” is a piece of script and CSS that checks for various elements in the page that appear as advertisement (via the use of specific ids, classes, or functions on them) and makes them “dissapear” either via scripts and/or CSS. A very primitive example of this would be a JavaScript function that adds the CSS “display:none;” property to all html elements that have an attribute with the word “ad” in it.
 
-But of course there are other examples.
+### Types of extensions
+
+> - **Enhance or complement a website**: Use an add-on to deliver additional in-browser features or information from your website. Allow users to collect details from pages they visit to enhance the service you offer.
+> - **Let users show their personality**: Browser extensions can manipulate the content of web pages; for example, letting users add their favorite logo or picture as a background to every page they visit. Extensions may also enable users to update the look of the Firefox UI, the same way standalone theme add-ons do.
+> - **Add or remove content from web pages**: You might want to help users block intrusive ads from web pages, provide access to a travel guide whenever a country or city is mentioned in a web page, or reformat page content to offer a consistent reading experience. With the ability to access and update both a page's HTML and CSS, extensions can help users see the web the way they want to.
+> - **Add tools and new browsing features**: Add new features to a taskboard, or generate QR code images from URLs, hyperlinks, or page text. With flexible UI options and the power of the WebExtensions APIs you can easily add new features to a browser. And, you can enhance almost any website's features or functionality, it doesn't have to be your website.
+
+Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions) on Mozilla Developper Network.
+
+### Examples
 
 - [Ethicly](https://www.ethicly.info/): *provides boycott recommendation for products from unethical companies*
 - [Terms of service, didn’t read](https://tosdr.org/en): *rephrases terms and conditions on websites in an understandable language*
