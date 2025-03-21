@@ -11,7 +11,7 @@ https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext
 
 ## Tutorial: web extension starter kit (2h)
 
-1) Create a folder named `my-extension-project`
+1) Create a folder named `my-extension-project`.
 2) Create your `manifest.json` file inside your project folder.
 
 Add this in your file:
