@@ -122,6 +122,18 @@ You can also install the `web-ext` command-line tool (with Terminal on Mac, or C
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
 
+## Extensions, basic CSS and JS actions
+
+1) Quick styling demonstration
+   - Change the font of the whole document
+   - Add content before and after titles
+   - Add various stylings (change color, background color, etc)
+   - Use the developper tool to target elements on a webpage and styling it differently
+  
+2) Use JavaScript to inject basic HTML elements and add new functions to the page
+   - CreateElement, innerHTML
+   - Create a click function that hides text when clicked on it
+
 ## Extensions, further ressources:
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
