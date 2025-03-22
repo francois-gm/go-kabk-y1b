@@ -77,7 +77,17 @@ If you are using files in your project (webfonts, images), they need to be preco
 
 ## Extension structure, a primer
 
+Previously, we created a manifest.json file as well as other files that we refered to in our manifest. An extension might use several ressource files, which should be located within your extension folder and can be categorized as such:
+
+- **Background scripts**: Scripts that respond to browser events.
+- **Icons**: for the extension and any buttons it might define.
+- **Sidebars, popups, and options pages**: HTML documents that provide content for various user interface components.
+- **Content scripts**: JavaScript included with your extension, that you will inject into web pages.
+- **Web-accessible resources**: make packaged content accessible to web pages and content scripts.
+
 <img src="webextension-anatomy.png" alt="Folder structure of an extension" width="450" height="auto">
+
+Read more on [Anatomy of a Web Extension, on the MDN website](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension).
 
 ## Installing and debugging your web extension
 
