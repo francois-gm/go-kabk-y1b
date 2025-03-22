@@ -100,6 +100,8 @@ https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl
 3) Click on the **Load unpacked** button
 4) Locate and select the folder of your extension (`my-extension-project`).
 
+<img src="webextension-install.png" alt="Folder structure of an extension" width="450" height="auto">
+
 **Pin the extension**
 
 By default, when you load your extension locally, it will appear in the extensions menu (Puzzle). Pin your extension to the toolbar to quickly access your extension during development.
@@ -114,9 +116,15 @@ In order to **view** the changes you make to your extension files, you not only 
 
 When errors are logged, they will appear under a red **Error** button located next to the **Details** and **Delete** buttons. Click on that button and you can see a log with the parts of your code that are causing issues.
 
+<img src="webextension-debug.png" alt="Folder structure of an extension" width="450" height="auto">
+
+This is how a debugging log will look like:
+
+<img src="webextension-debug-log.png" alt="Folder structure of an extension" width="450" height="auto">
+
 You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
 
-
+https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
 
 ## Extensions, further ressources:
 
