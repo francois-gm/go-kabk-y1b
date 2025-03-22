@@ -93,6 +93,13 @@ Read more on [Anatomy of a Web Extension, on the MDN website](https://developer.
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=en
 
+**Load an unpacked extension**
+
+1) Go to: `chrome://extensions/` (type this in your Chrome browser's address bar), or click on the `Extensions` menu puzzle button and select `Manage Extensions`, or click on `Window`, and `Extensions`.
+2) Activate the "developer mode" (toggle switch on the top right of the window)
+3) Click on "Load unpacked" button
+4) Locate and select the folder of your extension (`my-extension-project`).
+
 You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
