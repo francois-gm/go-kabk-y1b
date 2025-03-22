@@ -77,13 +77,46 @@ If you are using files in your project (webfonts, images), they need to be preco
 
 ## Extension structure, a primer
 
-(anatomy of an extension)
+Previously, we created a manifest.json file as well as other files that we refered to in our manifest. An extension might use several ressource files, which should be located within your extension folder and can be categorized as such:
+
+- **Background scripts**: Scripts that respond to browser events.
+- **Icons**: for the extension and any buttons it might define.
+- **Sidebars, popups, and options pages**: HTML documents that provide content for various user interface components.
+- **Content scripts**: JavaScript included with your extension, that you will inject into web pages.
+- **Web-accessible resources**: make packaged content accessible to web pages and content scripts.
+
+<img src="webextension-anatomy.png" alt="Folder structure of an extension" width="450" height="auto">
+
+Read more on [Anatomy of a Web Extension, on the MDN website](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension).
 
 ## Installing and debugging your web extension
 
-https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=en
+
+**Load an unpacked extension**
+
+1) Go to: `chrome://extensions/` (type this in your Chrome browser's address bar), **or** click on the **Extensions** menu puzzle button and select **Manage Extensions**, **or** click on **Window**, and **Extensions**.
+2) Activate the **developer mode** (toggle switch on the top right of the window)
+3) Click on the **Load unpacked** button
+4) Locate and select the folder of your extension (`my-extension-project`).
+
+**Pin the extension**
+
+By default, when you load your extension locally, it will appear in the extensions menu (Puzzle). Pin your extension to the toolbar to quickly access your extension during development.
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
+
+**Reload the extension**
+
+In order to **view** the changes you make to your extension files, you not only need to **save** your changes, but you also need to **reload** your extension (in addition to the webpage you're at). In order to do so, you need to click on the blue **`↻`** button.
+
+**Debug the extension**
+
+When errors are logged, they will appear under a red **Error** button located next to the **Details** and **Delete** buttons. Click on that button and you can see a log with the parts of your code that are causing issues.
+
+You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
+
+
 
 ## Extensions, further ressources:
 
