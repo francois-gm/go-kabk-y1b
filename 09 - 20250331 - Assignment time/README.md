@@ -91,7 +91,9 @@ Read more on [Anatomy of a Web Extension, on the MDN website](https://developer.
 
 ## Installing and debugging your web extension
 
-https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=en
+
+You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
 
