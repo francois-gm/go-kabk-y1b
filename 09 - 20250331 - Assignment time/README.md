@@ -77,7 +77,7 @@ If you are using files in your project (webfonts, images), they need to be preco
 
 ## Extension structure, a primer
 
-<img src="webextension-anatomy.png" alt="Folder structure of an extension" width="500" height="auto">
+<img src="webextension-anatomy.png" alt="Folder structure of an extension" width="450" height="auto">
 
 ## Installing and debugging your web extension
 
