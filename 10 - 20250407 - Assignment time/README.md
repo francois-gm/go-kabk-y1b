@@ -2,4 +2,4 @@
 
 ## *Web intervention* assignment time, sign-up sheet
 
-| Time slot (10min per person)
+| Time slot (6min per person)
