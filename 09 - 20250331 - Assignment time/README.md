@@ -100,9 +100,21 @@ https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl
 3) Click on the **Load unpacked** button
 4) Locate and select the folder of your extension (`my-extension-project`).
 
-You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
+**Pin the extension**
+
+By default, when you load your extension locally, it will appear in the extensions menu (Puzzle). Pin your extension to the toolbar to quickly access your extension during development.
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
+
+**Reload the extension**
+
+In order to **view** the changes you make to your extension files, you not only need to **save** your changes, but you also need to **reload** your extension (in addition to the webpage you're at). In order to do so, you need to click on the blue `**↻**` button.
+
+**Debug the extension**
+
+You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
+
+
 
 ## Extensions, further ressources:
 
