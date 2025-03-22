@@ -2,6 +2,8 @@
 
 ## Tutorial: web extension, filter and modify text with JavaScript (1h)
 
+🚨 To do, code examples 🚨
+
 - Replace one element of the page with text.
 - Replace multiple elements with text (using a `forEach` loop).
 - Looping a replace function in a `setInterval` (in order to re-apply dynamically the filter).
