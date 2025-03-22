@@ -106,11 +106,9 @@ https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl
 
 By default, when you load your extension locally, it will appear in the extensions menu (Puzzle). Pin your extension to the toolbar to quickly access your extension during development.
 
-https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
-
 **Reload the extension**
 
-In order to **view** the changes you make to your extension files, you not only need to **save** your changes, but you also need to **reload** your extension (in addition to the webpage you're at). In order to do so, you need to click on the blue **`↻`** button.
+In order to **view** the changes you make to your extension files, you not only need to **save** your changes, but you also need to **reload** your extension (in addition to the webpage you're at). In order to do so, you need to click on the **`↻`** button.
 
 **Debug the extension**
 
