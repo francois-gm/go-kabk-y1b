@@ -91,8 +91,6 @@ Read more on [Anatomy of a Web Extension, on the MDN website](https://developer.
 
 ## Installing and debugging your web extension
 
-https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=en
-
 **Load an unpacked extension**
 
 1) Go to: `chrome://extensions/` (type this in your Chrome browser's address bar), **or** click on the **Extensions** menu puzzle button and select **Manage Extensions**, **or** click on **Window**, and **Extensions**.
