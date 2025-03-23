@@ -1,14 +1,19 @@
-# Class 10, 2025/04/07
+# Class 111, 2025/04/14
 
-## Tutorial: web extension, filter and modify text with JavaScript (1h)
+## Tutorial: web extension, use the "popup" / "sidebar" features (1h)
 
 🚨 To do, code examples 🚨
 
-- Replace one element of the page with text.
-- Replace multiple elements with text (using a `forEach` loop).
-- Looping a replace function in a `setInterval` (in order to re-apply dynamically the filter).
-- Filter several terms with a *word map* and using a `TreeWalker` method (website's *tree* structure) to filter the website's DOM.
+## Tutorial: CSS, basic layout of a presentation page with flexbox (1h)
 
-## *Web intervention* assignment time, sign-up sheet (from 15:00)
+🚨 To do, code examples 🚨
 
-Time slots (6min per person), see spreadsheet.
+## *Web intervention* assignment time, small group talks, sign-up sheet (2h)
+
+| Time slot (25min per group) | Student |
+| -- | -------------- |
+| 15h25 | –, –, –, –, – |
+| 15h50 | –, –, –, –, – |
+| 16h15 | –, –, –, –, – |
+| 16h40 | –, –, –, –, – |
+| 17h05 | –, –, –, – |
