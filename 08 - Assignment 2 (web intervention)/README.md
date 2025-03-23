@@ -66,19 +66,6 @@ Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozi
 
 ## Getting started
 
-Let's build a starterkit.
-
-https://developer.chrome.com/docs/extensions/get-started?hl=en
-
-Basic examples:
-- Change some styling (CSS)
-- Find text strings and replace them (JS)
-- Filter the DOM for an element (JS)
-- Add an element to the DOM (JS)
-
-
-
-
-
+We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1b/tree/main/09%20-%2020250331%20-%20Assignment%20time).
 
 
