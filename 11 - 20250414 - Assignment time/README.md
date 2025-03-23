@@ -1,4 +1,4 @@
-# Class 111, 2025/04/14
+# Class 11, 2025/04/14
 
 ## Tutorial: web extension, use the "popup" / "sidebar" features (1h)
 
