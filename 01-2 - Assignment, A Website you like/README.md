@@ -43,10 +43,10 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 10 (class 6) | Julia (F) | https://banjosoundscapes.com |
 | March 18 (class 7) | Prem | http://www.xxx-clairewilliams-xxx.com |
 | March 18 (class 7) | Julia (J) | https://diagram.website |
-| March 24 (class 8) | Jennie | - |
-| March 24 (class 8) | Roxee | - |
-| March 24 (class 8) | Layoung | - |
-| March 31 (class 9) | Luca | - |
+| March 24 (class 8) | Jennie | https://www.cosmos.so |
+| March 24 (class 8) | Roxee | http://www.staggeringbeauty.com |
+| March 24 (class 8) | Luca | https://www.airpressure.info |
+| March 31 (class 9) | Layoung | - |
 | March 31 (class 9) | Sia | - |
 | April 7 (class 10) | Julia (N) | - |
 | April 7 (class 10) | Jasna | - |
