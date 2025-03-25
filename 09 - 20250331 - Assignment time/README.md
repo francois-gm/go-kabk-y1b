@@ -124,8 +124,6 @@ https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-active
 
 ## Extensions, basic CSS and JS actions
 
-🚨 To do (code examples) 🚨
-
 1) Quick styling demonstration:
    - Change the font of the whole document.
    - Add content before and after titles.
