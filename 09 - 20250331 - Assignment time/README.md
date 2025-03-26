@@ -98,7 +98,7 @@ Read more on [Anatomy of a Web Extension, on the MDN website](https://developer.
 3) Click on the **Load unpacked** button
 4) Locate and select the folder of your extension (`my-extension-project`).
 
-<img src="webextension-install.png" alt="Folder structure of an extension" width="450" height="auto">
+<img src="webextension-install.png" alt="Install an extension" width="450" height="auto">
 
 **Pin the extension**
 
@@ -112,11 +112,11 @@ In order to **view** the changes you make to your extension files, you not only 
 
 When errors are logged, they will appear under a red **Error** button located next to the **Details** and **Delete** buttons. Click on that button and you can see a log with the parts of your code that are causing issues.
 
-<img src="webextension-debug.png" alt="Folder structure of an extension" width="450" height="auto">
+<img src="webextension-debug.png" alt="Debug an extension" width="450" height="auto">
 
 This is how a debugging log will look like:
 
-<img src="webextension-debug-log.png" alt="Folder structure of an extension" width="450" height="auto">
+<img src="webextension-debug-log.png" alt="Debugging log" width="450" height="auto">
 
 You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
 
@@ -124,7 +124,7 @@ You can also install the `web-ext` command-line tool (with Terminal on Mac, or C
 
 To use the **console** (in **developer tools**) from within the content script, click the dropdown arrow next to `top` and select the extension.
 
-<img src="webextension-console.png" alt="Folder structure of an extension" width="450" height="auto">
+<img src="webextension-console.png" alt="Using the developer tool console for debugging an extension" width="450" height="auto">
 
 ## Extensions, basic CSS and JS actions
 
@@ -138,9 +138,9 @@ To use the **console** (in **developer tools**) from within the content script, 
    - CreateElement, innerHTML.
    - Create a click function that hides text when clicked on it.
 
-The difference between a variable with a *number* value, a *zero* value, an *empty* value, and being *undefined*?
+### The difference between a variable with a *number* value, a *zero* value, an *empty* value, and being *undefined*?
 
-<img src="null.jpg" alt="Differences between numbers, zero, empty and null" width="450" height="auto">
+<img src="null.jpg" alt="Differences between numbers, zero, empty and null" width="250" height="auto">
 
 ## Extensions, further ressources:
 
