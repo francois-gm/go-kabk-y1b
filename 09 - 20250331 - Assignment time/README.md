@@ -140,7 +140,7 @@ To use the **console** (in **developer tools**) from within the content script, 
 
 ### The difference between a variable with a *number* value, a *zero* value, an *empty* value, and being *undefined*?
 
-<img src="null.jpg" alt="Differences between numbers, zero, empty and null" width="250" height="auto">
+<img src="null.jpg" alt="Differences between numbers, zero, empty and null" width="450" height="auto">
 
 ## Extensions, further ressources:
 
