@@ -120,7 +120,14 @@ This is how a debugging log will look like:
 
 You can also install the `web-ext` command-line tool (with Terminal on Mac, or Command Prompt on Windows). This will allow the browser extension to automatically refresh itself. Read more and install instructions on [Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/).
 
-https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
+**Use the JavaScript `console` for debugging**
+
+To use the **console** (in **developer tools**) from within the content script, click the dropdown arrow next to `top` and select the extension.
+
+<img src="webextension-debug-console.png" alt="Folder structure of an extension" width="450" height="auto">
+
+
+
 
 ## Extensions, basic CSS and JS actions
 
