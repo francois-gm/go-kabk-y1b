@@ -138,7 +138,9 @@ To use the **console** (in **developer tools**) from within the content script, 
    - CreateElement, innerHTML.
    - Create a click function that hides text when clicked on it.
 
-### The difference between a variable with a *number* value, a *zero* value, an *empty* value, and being *undefined*?
+### Bonus
+
+What is the difference between a variable with a ***number*** value, a ***zero*** value, an ***empty*** value, and being ***undefined***?
 
 <img src="null.jpg" alt="Differences between numbers, zero, empty and null" width="450" height="auto">
 
