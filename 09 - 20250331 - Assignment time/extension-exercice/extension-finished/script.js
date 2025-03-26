@@ -1,6 +1,6 @@
 
 
-
+/*
 // example 1, createElement
 
 function addElement() {
@@ -41,3 +41,4 @@ list.innerHTML += `<li><a href="#">Item ${list.children.length + 1}</a></li>`;
 //TO DO
 
 
+*/

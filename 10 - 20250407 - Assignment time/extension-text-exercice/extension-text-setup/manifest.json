@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "My extension project",
-    "description": "My extension description",
+    "name": "My extension project (text exercice)",
+    "description": "My extension description (text exercice)",
     "version": "1.0",
     "icons": {
       "16": "images/icon/icon.png",
@@ -23,7 +23,7 @@
                 "<all_urls>"
             ],
             "js": ["script.js"],
-            "_css" : ["style.css"]
+            "css" : ["style.css"]
         }
     ]
 }
