@@ -124,10 +124,7 @@ You can also install the `web-ext` command-line tool (with Terminal on Mac, or C
 
 To use the **console** (in **developer tools**) from within the content script, click the dropdown arrow next to `top` and select the extension.
 
-<img src="webextension-debug-console.png" alt="Folder structure of an extension" width="450" height="auto">
-
-
-
+<img src="webextension-console.png" alt="Folder structure of an extension" width="450" height="auto">
 
 ## Extensions, basic CSS and JS actions
 
