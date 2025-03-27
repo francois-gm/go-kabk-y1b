@@ -146,13 +146,15 @@ What is the difference between a variable with a ***number*** value, a ***zero**
 
 ## Extensions, further ressources:
 
-🚨 To do 🚨
-
-https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab?hl=en
-
-https://developer.chrome.com/docs/extensions/get-started?hl=en
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples
+- [Anatomy of an extension on MDN](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
+- Browse through [extension examples by functionalites on MDN](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/Examples)
+- And see [their code on Github](https://github.com/mdn/webextensions-examples)
+- [Modify a page, on MDN](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page)
+- [Extension tutorial using the "popup" feature, on MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension)
+- [User interfaces modules](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface) of web extensions on MDN
+- [Getting started, on Chrome for developers ](https://developer.chrome.com/docs/extensions/get-started?hl=en)
+- [Create a "tabs" manager](https://developer.chrome.com/docs/extensions/get-started/tutorial/popup-tabs-manager?hl=en)
+- [Chrome advanced developer ressources](https://developer.chrome.com/docs/extensions/develop?hl=en)
 
 ## *Web intervention* assignment time, small group talks, sign-up sheet
 
