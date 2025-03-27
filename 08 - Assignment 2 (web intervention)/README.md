@@ -7,7 +7,7 @@
 - Think about what your extension will do: **enhance/complement** a website, add **fun and personality** to a website, **add/change/remove** contents, add new **functionalities**?...
 - But also, conceptually, what can your extension bring to website(s)? Do you make a statement, either hands-on, activist, conceptually, artististically? What can you add, remove, or change to a website but also **why you would want to do that** and **what does this mean**?
 - We will have a look at basic potentialities with JavaScript and CSS (add/remove elements from page, and change their styling).
-- Because browser extensions have to be installed, you will also have to think about how to present/showcase it to your peers online. Think about your extension's **name**, its product **presentation page** (you do a separate HTML page to promote it), and **download/installation instructions**.
+- Because browser extensions have to be installed, you will also have to think about how to present/showcase it to your peers online. Think about your extension's **name**, a **presentation page** (a standalone HTML page to showcase it), and **download/installation instructions**.
 
 Schedule:
 
