@@ -43,7 +43,7 @@ The `manifest.json` is an essential file for your project. A bit like the `head`
 
 In this example, we linked a `script.js` and `style.css` file, these apply to **all** URLs visited by us. By changing the value of `matches` or setting an `exclude_matches` name/value, we can choose which URLs apply our scripts and styles. We can also offer different stylesheets based on different URLs. See the full documentation on [manifest.json on the MDN website](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json).
 
-Examples with matches:
+Examples with `matches`:
 
 ```
             ...
