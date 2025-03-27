@@ -122,7 +122,7 @@ You can also install the `web-ext` command-line tool (with Terminal on Mac, or C
 
 **Use the JavaScript `console` for debugging**
 
-To use the **console** (in **developer tools**) from within the content script, click the dropdown arrow next to `top` and select the extension.
+To use the **console** (in **developer tools**) from within the content script, do as you would do to access the console if you were debugging a traditional website, then click the dropdown arrow next to `top` and select the extension.
 
 <img src="webextension-console.png" alt="Using the developer tool console for debugging an extension" width="450" height="auto">
 
