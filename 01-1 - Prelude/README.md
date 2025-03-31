@@ -40,7 +40,7 @@ In a way, our world is a collection of interdependent functions, ecosystems, eco
 
 <img src="equinix.jpg" width="250px">
 
-_The internet is real... Datacenter AM4 (Equinix), designed by Benthem Crouwel,Amsterdam, NL_
+_The internet is real... Datacenter AM4 (Equinix), designed by Benthem Crouwel, Amsterdam, NL_
 
 <br>
 
@@ -90,6 +90,6 @@ on layers on layers.
 
 <br>
 
-2024/09/09 <br>
+2025/01/20 <br>
 François Girard-Meunier <br>
 KABK, Den Haag
