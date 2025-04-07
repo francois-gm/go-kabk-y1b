@@ -48,8 +48,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 24 (class 8) | Luca | https://www.airpressure.info |
 | March 31 (class 9) | Layoung | https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love |
 | March 31 (class 9) | Sia | https://mainfra.me |
-| April 7 (class 10) | Julia (N) | - |
-| April 7 (class 10) | Jasna | - |
+| April 7 (class 10) | Julia (N) | https://dekmantelfestival.com |
+| April 7 (class 10) | Jasna | https://szigetfestival.com/en/ |
 | April 14 (class 11) | Pola | - |
 | April 14 (class 11) | Mara | - |
 | April 7 (class 12) | Daniel | - |
