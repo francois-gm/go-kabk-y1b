@@ -50,8 +50,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 31 (class 9) | Sia | https://mainfra.me |
 | April 7 (class 10) | Julia (N) | https://dekmantelfestival.com |
 | April 7 (class 10) | Jasna | https://szigetfestival.com/en/ |
-| April 14 (class 11) | Pola | - |
-| April 14 (class 11) | Mara | - |
+| April 14 (class 11) | Pola | https://communalradio.club |
+| April 14 (class 11) | Mara | https://smashthewalls.com |
 | May 12 (class 12) | Daniel | - |
 | May 12 (class 12) | Yicheng | - |
 | May 19 (class 13) | Eva | - |
