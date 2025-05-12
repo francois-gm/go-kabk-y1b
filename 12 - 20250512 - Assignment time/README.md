@@ -2,11 +2,11 @@
 
 ## A website you like (15min)
 
--
+Daniel and Yicheng will each present a website they like.
 
 ## Template for presentation page (30min)
 
-See file `my-project-template.zip` under that page.
+See file `my-project-template.zip` within that page.
 
 ### Prepare your extension for dowload (for others)
 
