@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+/* CSS rules go below */
+
+body{
+	font-family: "Helvetica", "Arial", sans-serif;
+	color:black;
+	background-color:lightblue;
+}
+
+.page-wrapper{
+	padding:1rem;
+	display: flex;
+	flex-direction: column;
+}
+
+header, nav, section, footer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	margin-top:2.5vw;
+	margin-bottom:2.5vw;
+}
+
+h1, h2, p{
+	text-align: center;
+	max-width: 30rem;
+}
+
+.extension-download a{
+	font-size:1.5rem;
+	padding:1.5rem;
+	border-radius: 2rem;
+	text-decoration: none;
+	border: 1px solid blue;
+}
+
+.extension-documentation{
+	width:50vw;
+}
+
+.extension-reviews-block{
+	width:100%;
+	max-width: unset;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.extension-review{
+	width:25vw;
+	padding:1rem;
+	margin:1rem;
+	border:1px solid black;
+	box-sizing: border-box;
+}
+
+video, img{
+	display: block;
+	float:left;
+	clear:both;
+	width:100%;
+	height:auto;
+	margin-top:1rem;
+	margin-bottom:1rem;
+	background-color: black;
+}
+
+section.extension-installation ol{
+	text-align: left;
+}
+
+footer{
+	border-top:1px solid black;
+}
+
+
+
+/* CSS style for mobile devices */
+
+@media (max-width: 780px) {
+  	.extension-documentation{
+		width:90vw;
+	}
+	.extension-review{
+		width:90vw;
+		margin-left:0;
+		margin-right:0;
+	}
+}
+
+

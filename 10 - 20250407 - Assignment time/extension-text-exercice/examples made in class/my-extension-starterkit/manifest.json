@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "My extension project",
+    "description": "My extension description",
+    "version": "1.0",
+    "icons": {
+      "16": "images/icon/icon.png",
+      "32": "images/icon/icon.png",
+      "48": "images/icon/icon.png",
+      "128": "images/icon/icon.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "images/icon/icon.png",
+            "32": "images/icon/icon.png",
+            "48": "images/icon/icon.png",
+            "128": "images/icon/icon.png"
+        }
+    },
+    "content_scripts": [
+        {   
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["script.js"],
+            "css" : ["style.css"]
+        }
+    ]
+}
