@@ -52,10 +52,10 @@ Duration of the presentation: **around 2 minutes** per person.
 | April 7 (class 10) | Jasna | https://szigetfestival.com/en/ |
 | April 14 (class 11) | Pola | https://communalradio.club |
 | April 14 (class 11) | Mara | https://smashthewalls.com |
-| May 12 (class 12) | Daniel | - |
+| May 12 (class 12) | Daniel | https://thispersondoesnotexist.com |
 | May 12 (class 12) | Yicheng | - |
 | May 19 (class 13) | Eva | - |
-| May 19 (class 13) | Nastya | - |
+| May 19 (class 13) | Nastya | https://www.patatap.com |
 
 
 ## Ressources list
