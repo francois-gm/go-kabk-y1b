@@ -12,8 +12,9 @@
 2) `Site` -> `Deploy manually` (`browse to upload`).
 3) When browsing, select your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of the (presentation) webpage of your web extension, that contains your `index.html`, your `assets` and your `content` folders.
 4) There it is!
+5) Change the URL of your project to something you can re-use.
 
-Add your url to the list (you can change the URL to a name you want to keep for later)
+Then add your url to the spreadsheet list (in Teams).
 
 ### b) Presentation
 
@@ -33,11 +34,8 @@ Points you can include in your sentence:
 - What is the overall experience?
 
 
-Write your sentences in [add URL address of the writing pad]
+Write your sentences in [this writing pad](https://pad.xpub.nl/p/Y1B_peer_reviews).
 
-<!--
-[this writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews).
--->
 #### 2) Adding reviews to your project
 
 --
@@ -53,28 +51,30 @@ Then read out these three sentences.
 | Name | URL |
 | -- | -------------- |
 <!--
-| Lucile | https://ihopemyglassesdontbrake.netlify.app |
-| Sam | https://moonlit-pothos-dabf3d.netlify.app/ (broken scissor image version) |
-| Matilde | https://ornate-cajeta-c9b90e.netlify.app |
-| Jeungin | https://wondrous-rolypoly-909495.netlify.app |
-| Nell | https://curious-sunburst-070a89.netlify.app/ |
-| Khulan | https://songrecommendationfunction.netlify.app |
-| Timmy | https://elevator151224.netlify.app (audio issues) |
-| Fedja | https://lucky-starburst-cb4b3d.netlify.app |
-| Duru | https://prismatic-vacherin-4c3c21.netlify.app |
-| Yoonjin | https://legendary-paletas-a072b1.netlify.app |
-| Kaja | https://luxury-bienenstitch-8aca06.netlify.app (WIP) |
-| Max | https://sparkling-lollipop-a61648.netlify.app/ (audio works in firefox) |
-| Yalizah | https://extraordinary-donut-0dd803.netlify.app |
-| Maria | https://sensational-pithivier-ce3122.netlify.app |
-| Femke | https://spectacular-hamster-388dbd.netlify.app |
-| Alexandr | https://clinquant-biscuit-5f8593.netlify.app |
-| Myrto | https://amazing-capybara-b5cd7b.netlify.app |
-| Andrei | https://bosskingfight.netlify.app/ |
-| Olya | https://radiant-bonbon-2169e2.netlify.app/ |
-| Mani | https://silver-faloodeh-41a243.netlify.app |
-| Isaac | https://imaginative-paletas-0f732e.netlify.app/ |
-| Amy | https://papaya-douhua-cde35b.netlify.app |
+| Jerome | - |
+| Bengi | - |
+| Olin | - |
+| Mart | - |
+| David | - |
+| Klara | - |
+| Simone | - |
+| Iloy | - |
+| Julia (F) | - |
+| Jennie | - |
+| Prem | - |
+| Julia (J) | - |
+| Roxee | - |
+| Layoung | - |
+| Luca | - |
+| Sia | - |
+| Julia (N) | - |
+| Jasna | - |
+| Pola | - |
+| Mara | - |
+| Daniel | - |
+| Yicheng | - |
+| Eva | - |
+| Nastya | - |
 -->
 
 ## Archiving your projects
