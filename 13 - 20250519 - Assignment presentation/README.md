@@ -36,7 +36,7 @@ Points you can include in your sentence:
 
 Write your sentences in [this writing pad](https://pad.xpub.nl/p/Y1B_peer_reviews).
 
-#### 2) Adding reviews to your project
+#### 2) Adding reviews to your project (15min)
 
 First, look at the list. Pick up **two** sentences that you think summarize the best your project.
 
