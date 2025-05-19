@@ -53,8 +53,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | April 14 (class 11) | Pola | https://communalradio.club |
 | April 14 (class 11) | Mara | https://smashthewalls.com |
 | May 12 (class 12) | Daniel | https://thispersondoesnotexist.com |
-| May 12 (class 12) | Yicheng | - |
-| May 19 (class 13) | Eva | - |
+| May 12 (class 12) | Yicheng | https://www.cookinginprogress.online |
+| May 19 (class 13) | Eva | https://visdeurbel.nl |
 | May 19 (class 13) | Nastya | https://www.patatap.com |
 
 
