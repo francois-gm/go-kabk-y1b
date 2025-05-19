@@ -38,15 +38,16 @@ Write your sentences in [this writing pad](https://pad.xpub.nl/p/Y1B_peer_review
 
 #### 2) Adding reviews to your project
 
---
+First, look at the list. Pick up **two** sentences that you think summarize the best your project.
+
+- Select **three** 'reviews' from the writing pad and add them to your presentation page. You can keep the review anonymous (and give these reviews 'random' nametypes).
+- Delete and re-deploy your page on netlify (see instructions up), by keeping the same project name than before.
 
 #### 3) Showcasing your website (45min)
 
-First, look at the list. Pick up **two** sentences that you think summarize the best your project.
-
 You will present your extension to the class. Show how it works.
 
-Then read out these three sentences.
+Then read out these reviews you added on your webpage.
 
 | Name | URL |
 | -- | -------------- |
