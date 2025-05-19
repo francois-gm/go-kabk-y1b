@@ -10,7 +10,7 @@
 
 1) Create an account on [Netlify](https://app.netlify.com).
 2) `Site` -> `Deploy manually` (`browse to upload`).
-3) When browsing, select your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of the (presentation) webpage of your web extension, that contains your `index.html`, your `assets` and your `content` folders.
+3) When browsing, select the folder that *contains* your presentation webpage of your web extension (that contains your `index.html`, your `assets` and your `content` folders).
 4) There it is!
 5) Change the URL of your project to something you can re-use.
 
